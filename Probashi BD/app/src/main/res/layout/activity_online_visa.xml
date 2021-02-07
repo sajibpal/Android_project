@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.spal.sajibpal.probashi.OnlineVisa"
+    android:orientation="vertical"
+    android:background="@drawable/background">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/application"
+        android:textSize="25sp"
+        android:textColor="#fff"
+        android:onClick="show"
+        android:layout_marginTop="80dp"
+        android:paddingLeft="8dp"
+        android:text="1.Online Visa Application"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/mrv"
+        android:textSize="25sp"
+        android:onClick="show"
+        android:textColor="#fff"
+        android:layout_marginTop="30dp"
+        android:paddingLeft="8dp"
+        android:text="2.Which Country that supported Machine Readable Visa(MRV) Online Application ?"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/rules"
+        android:textSize="25sp"
+        android:textColor="#fff"
+        android:onClick="show"
+        android:layout_marginTop="30dp"
+        android:paddingLeft="8dp"
+        android:text="3.Visa Policy of Bangladesh"/>
+</LinearLayout>

@@ -1,0 +1,2165 @@
+<resources>
+    <string name="app_name">Probashi</string>
+    <string-array name="typ">
+        <item>Country</item>
+        <item>Embassy</item>
+        <item>Immigration</item>
+        <item>Online-Visa</item>
+    </string-array>
+    <string-array name="contry">
+        <item>Bangladesh</item>
+        <item>India(Agartala)</item>
+        <item>India(Guwahati)</item>
+        <item>India(Kolkata)</item>
+        <item>India(Mumbai)</item>
+        <item>India(New Delhi)</item>
+        <item>Pakistan(Islamabad)</item>
+        <item>Pakistan(Karachi)</item>
+        <item>SriLanka</item>
+        <item>Malaysia</item>>
+        <item>Italy(Milan)</item>
+        <item>Italy(Rome)</item>
+        <item>Netherlands</item>
+        <item>Portugal</item>
+        <item>Sweden</item>
+        <item>Switzerland</item>
+        <item>United Kingdom(Birmingham)</item>
+        <item>United Kingdom(London)</item>
+        <item>United Kingdom(Manchester)</item>
+        <item>Brazil(Brasilia)</item>
+        <item>Canada(Ottawa)</item>
+        <item>Canada(Toronto)</item>
+        <item>Mexico</item>
+        <item>USA(Los Angeles)</item>
+        <item>USA(New York)</item>
+        <item>USA(United Nations)</item>
+        <item>USA(Washington)</item>
+        <item>South Africa</item>
+        <item>Spain</item>
+        <item>Singapore</item>
+        <item>Kuwait(Kuwait City)</item>
+        <item>France</item>
+        <item>Germany</item>
+        <item>Australia(Canberra)</item>
+        <item>Australia(Sydney)</item>
+        <item>China(Beijing)</item>
+        <item>China(Hong Kong)</item>
+        <item>China(Kunming)</item>
+        <item>Japan</item>
+        <item>Korea</item>
+        <item>Austria</item>
+        <item>Qatar(Doha)</item>
+        <item>Saudi Arabia(Jeddah)</item>
+        <item>Saudi Arabia(Riyadh)</item>
+        <item>UAE(Abu Dhabi)</item>
+        <item>UAE(Dubai Consulate General)</item>
+        <item>Lebanon(Beirut)</item>
+        <item>Thailand</item>
+        <item>Nepal</item>
+        <item>Iran(Tehran)</item>
+        <item>Iraq(Baghdad)</item>
+        <item>Jordan(Amman)</item>
+        <item>Bahrain(Manama)</item>
+        <item>Vietnam</item>
+        <item>Philippines</item>
+        <item>Myanmar(Sittwe)</item>
+        <item>Myanmar(Yangon)</item>
+        <item>Indonesia</item>
+        <item>Brunei</item>
+        <item>Maldives</item>
+        <item>Bhutan(Thimphu)</item>
+        <item>Oman(Muscat)</item>
+        <item>Belgium</item>
+        <item>Denmark</item>
+        <item>Greece</item>
+        <item>Libya</item>
+        <item>Kenya</item>
+    </string-array>
+
+    <string-array name="contry2">
+        <item>Japan</item>
+        <item>USA</item>
+        <item>Sweden</item>
+        <item>Switzerland</item>
+        <item>Malaysia</item>
+        <item>Singapore</item>
+        <item>China</item>
+        <item>France</item>
+        <item>Saudi Arabia</item>
+        <item>Netherlands</item>
+        <item>Canada</item>
+        <item>SriLanka</item>
+        <item>Pakistan</item>
+        <item>India</item>
+        <item>Australia</item>
+        <item>United Kingdom</item>
+        <item>Germany</item>
+        <item>Iraq</item>
+        <item>Italy</item>
+        <item>Republic of Korea</item>
+        <item>Philippines</item>
+        <item>Brazil</item>
+        <item>Arab Republic of Egypt</item>
+        <item>Holy See(Vatican)</item>
+        <item>Russia</item>
+        <item>Iran</item>
+        <item>Afghanistan</item>
+        <item>Morocco</item>
+        <item>Turkey</item>
+        <item>State of Palestine</item>
+        <item>Indonesia</item>
+        <item>Myanmar</item>
+        <item>Libya</item>
+        <item>Bhutanese</item>
+        <item>Nepal</item>
+        <item>Norwegian</item>
+        <item>Thai</item>
+        <item>DPRK(Korea)</item>
+        <item>Brunei</item>
+        <item>Maldives</item>
+        <item>European Union</item>
+    </string-array>
+
+    <string-array name="country3">
+        <item>Bangladesh</item>
+        <item>India</item>
+        <item>Pakistan</item>
+        <item>SriLanka</item>
+        <item>Malaysia</item>>
+        <item>Korea</item>
+        <item>Maldives</item>
+        <item>Portugal</item>
+        <item>Switzerland</item>
+        <item>United Kingdom</item>
+        <item>South Africa</item>
+        <item>Saudi Arabia</item>
+        <item>Qatar</item>
+        <item>China</item>
+        <item>Japan</item>
+        <item>Canada</item>
+        <item>Australia</item>
+        <item>Spain</item>
+        <item>Singapore</item>
+        <item>Thailand</item>
+        <item>France</item>
+        <item>Germany</item>
+        <item>Italy</item>
+    </string-array>
+
+    <string-array name="countery4">
+        <item>Australia</item>
+        <item>Austria</item>
+        <item>Bangladesh</item>
+        <item>Bhutan</item>
+        <item>Brazil</item>
+        <item>Canada</item>
+        <item>China</item>
+        <item>Denmark</item>
+        <item>France</item>
+        <item>Germany</item>
+        <item>Greece</item>
+        <item>India</item>
+        <item>Iran</item>
+        <item>Iraq</item>
+        <item>Indonesia</item>
+        <item>Italy</item>
+        <item>Japan</item>
+        <item>Kenya</item>
+        <item>Korea</item>
+        <item>Kuwait</item>
+        <item>Libya</item>
+        <item>Malaysia</item>
+        <item>Mexico</item>
+        <item>Myanmar</item>
+        <item>Maldives</item>
+        <item>Nepal</item>
+        <item>Netherlands</item>
+        <item>Oman</item>
+        <item>Pakistan</item>
+        <item>Portugal</item>
+        <item>Philippines</item>
+        <item>Qatar</item>
+        <item>SriLanka</item>
+        <item>Spain</item>
+        <item>Saudi Arabia</item>
+        <item>Singapore</item>
+        <item>Sweden</item>
+        <item>Switzerland</item>
+        <item>South Africa</item>
+        <item>Thailand</item>
+        <item>Vietnam</item>
+        <item>UAE</item>
+        <item>United Kingdom</item>
+        <item>USA</item>
+    </string-array>
+
+    <string name="Bangladeshinfo">
+        People\'s Republic of Bangladesh , is a country in South Asia.
+      It is the world\'s 8th-most populous country with nearly 163 million people,
+       and is the 92nd-largest country in land area, spanning 147,570 square kilometres (56,980 sq mi),
+        making it one of the most densely-populated countries in the world. Bangladesh shares land
+        borders with India to the west, north, and east, Myanmar to the southeast, and the Bay of
+        Bengal to the south. It is narrowly separated from Nepal and Bhutan by India\'s Siliguri
+        Corridor in the north and from China by the Indian state of Sikkim in the northeast. Dhaka,
+        the capital and largest city, is the nation\'s economic, political and cultural hub.
+        Chittagong, the largest sea port, is the second largest city.
+       The seacoast features the longest natural sea beach and most of the world\'s largest
+        mangrove forest. The country\'s biodiversity includes a vast array of plants and wildlife,
+        including the endangered Bengal tiger, the national animal. \n\n
+        Capital:Dhaka\n
+        Official language and national language :Bengali\n
+        Area : 147,570 km2\n
+        GDP (PPP) :$837.588 billion \n
+        Currency : Bangladeshi Taka (BDT)\n
+        Calling code :	+880\n
+    </string>
+    <string name="Indiainfo">
+      India  officially the Republic of India , is a country in South Asia. It is the seventh-largest country by area, the second-most populous country, and the most populous democracy in the world. Bounded by the Indian Ocean on the south, the Arabian Sea on the southwest, and the Bay of Bengal on the southeast, it shares land borders with Pakistan to the west; China, Nepal, and Bhutan to the north; and Bangladesh and Myanmar to the east. In the Indian Ocean, India is in the vicinity of Sri Lanka and the Maldives; its Andaman and Nicobar Islands share a maritime border with Thailand and Indonesia. \n\n
+    Capital:New Delhi \n
+    Official language :Hindi,English\n
+    Area :3,287,263 km2  \n
+    GDP (PPP) :$11.326 trillion \n
+    Currency :Indian rupee \n
+    Calling code :+91\n
+
+    </string>
+    <string name="Pakistaninfo">
+      Pakistan, officially the Islamic Republic of Pakistan, is a country in South Asia. It is the world\'s sixth-most populous country with a population exceeding 207.8 million. In area, it is the 33rd-largest country, spanning 881,913 square kilometres (340,509 square miles). Pakistan has a 1,046-kilometre (650-mile) coastline along the Arabian Sea and Gulf of Oman in the south and is bordered by India to the east, Afghanistan to the west, Iran to the southwest, and China in the northeast. It is separated narrowly from Tajikistan by Afghanistan\'s Wakhan Corridor in the northwest, and also shares a maritime border with Oman.\n\n
+    Capital:Islamabad \n
+    Official language  :English , Urdu \n
+    Area : 881,913 km2 \n
+    GDP (PPP) : $1.202 trillion \n
+    Currency :Pakistani rupee\n
+    Calling code :	+92\n
+    </string>
+    <string name="SriLankainfo">
+      Democratic Socialist Republic of Sri Lanka, is an island country in South Asia, located in the Indian Ocean to the southwest of the Bay of Bengal and to the southeast of the Arabian Sea. The island is geographically separated from the Indian subcontinent by the Gulf of Mannar and the Palk Strait. The legislative capital, Sri Jayawardenepura Kotte, is a suburb of the commercial capital and largest city, Colombo.\n\n
+    Capital:Sri Jayawardenepura Kotte \n
+    Official language :Sinhala,Tamil\n
+    Area :65,610 km2  \n
+    GDP (PPP) :$321.856 billion \n
+    Currency : SriLankan rupee \n
+    Calling code :+94\n
+    </string>
+    <string name="Malaysiainfo">
+      Malaysia  is a country in Southeast Asia.
+The federal constitutional monarchy consists of
+ 13 states and three federal territories, separated
+by the South China Sea into two similarly sized regions,
+Peninsular Malaysia and East Malaysia (Malaysian Borneo).
+Peninsular Malaysia shares a land and maritime border with
+ Thailand and maritime borders with Singapore, Vietnam, and Indonesia.
+ East Malaysia shares land and maritime borders with Brunei and
+ Indonesia and a maritime border with the Philippines and Vietnam.
+ Kuala Lumpur is the national capital and largest city while Putrajaya
+is the seat of the federal government. With a population of over 30 million,
+Malaysia is the world\'s 44th most populous country. The southernmost point of
+continental Eurasia, Tanjung Piai, is in Malaysia\n\n
+
+Capital:Kuala Lumpur\n
+Official language and national language :Malay\n
+Area :	330,803 km2  \n
+GDP (PPP) :$1.074 trillion \n
+Currency :Ringgit \n
+Calling code :+60\n
+    </string>
+
+    <string name="Spaininfo">
+      Spain  (About this soundlisten), officially the Kingdom of Spain (Spanish: Reino de España), is a country in Southwestern Europe with some pockets of Spanish territory across the Strait of Gibraltar and the Atlantic Ocean.Its continental European territory is situated on the Iberian Peninsula. Its territory also includes two archipelagoes: the Canary Islands off the coast of Africa, and the Balearic Islands in the Mediterranean Sea. The African enclaves of Ceuta, Melilla, and Peñón de Vélez de la Gomera make Spain the only European country to have a physical border with an African country (Morocco). Several small islands in the Alboran Sea are also part of Spanish territory. The country\'s mainland is bordered to the south and east by the Mediterranean Sea except for a small land boundary with Gibraltar; to the north and northeast by France, Andorra, and the Bay of Biscay; and to the west and northwest by Portugal and the Atlantic Ocean. \n\n
+Capital:Madrid \n
+Official language and national language : Spanish\n
+Area :505,990 km2  \n
+GDP (PPP) :$2.016 trillion \n
+Currency :EUR \n
+Calling code :+34\n
+    </string>
+    <string name="Singaporeinfo">
+      Singapore  (About this soundlisten), officially the Republic of Singapore, is a sovereign island city-state in Southeast Asia. The country is situated about one degree (137 kilometres or 85 miles) north of the equator, at the southern tip of the Malay Peninsula, with Indonesia\'s Riau Islands to the south and Peninsular Malaysia to the north. Singapore\'s territory consists of one main island along with 58 other islets. Since independence, extensive land reclamation has increased its total size by 23% (130 square kilometres or 50 square miles).\n\n
+Capital: Singapore\n
+Official language and national language :English,Malay,Mandarin,Tamil\n
+Area : 	725.1 km2 \n
+GDP (PPP) :$589.187 billion \n
+Currency :Singapore dollar \n
+Calling code :+65\n
+    </string>
+    <string name="Thailandinfo">
+     Thailand, officially the Kingdom of Thailand and formerly known as Siam, is a country at the centre of the Southeast Asian Indochinese Peninsula composed of 76 provinces. At 513,120 km2 (198,120 sq mi) and over 68 million people, Thailand is the world\'s 50th-largest country by total area and the 22nd-most-populous country. The capital and largest city is Bangkok, a special administrative area. Thailand is bordered to the north by Myanmar and Laos, to the east by Laos and Cambodia, to the south by the Gulf of Thailand and Malaysia, and to the west by the Andaman Sea and the southern extremity of Myanmar. Its maritime boundaries include Vietnam in the Gulf of Thailand to the southeast, and Indonesia and India on the Andaman Sea to the southwest. It is a unitary state. Although nominally the country is a constitutional monarchy and parliamentary democracy\n\n
+Capital: Bangkok\n
+Official language  :Thai\n
+Area : 513,120 km2 \n
+GDP (PPP) :$1.390 trillion \n
+Currency :Baht \n
+Calling code :+66\n
+    </string>
+    <string name="Nepalinfo">
+      Nepal  officially the Federal Democratic Republic of Nepal, is a landlocked country in South Asia. It is located mainly in the Himalayas, but also includes parts of the Indo-Gangetic Plain. With an estimated population of 26.4 million, it is 48th largest country by population and 93rd largest country by area. It borders China in the north and India in the south, east and west while Bangladesh is located within only 27 km (17 mi) of its southeastern tip and Bhutan is separated from it by the Indian state of Sikkim. Nepal has a diverse geography, including fertile plains, subalpine forested hills, and eight of the world\'s ten tallest mountains, including Mount Everest, the highest point on Earth. Kathmandu is the capital and the largest city. Nepal is a multiethnic country with Nepali as the official languag\n\n
+Capital:Kathmandu \n
+Official language  :Nepali\n
+Area :147,181 km2 \n
+GDP (PPP) :$84 billion \n
+Currency : Nepalese rupee\n
+Calling code :+977\n
+    </string>
+    <string name="Iraninfo">
+      Iran, also called Persia, and officially the Islamic Republic of Iran, is a country in Western Asia. With 82 million inhabitants, Iran is the world\'s 18th most populous country. Its territory spans 1,648,195 km², making it the second largest country in the Middle East and the 17th largest in the world\n\n
+Capital:Tehran \n
+Official language  :Persian\n
+Area : 1,648,195 km2 \n
+GDP (PPP) :$1.471 trillion \n
+Currency :Rial \n
+Calling code :+98\n
+
+    </string>
+    <string name="Iraqinfo">
+      Iraq, officially the Republic of Iraq, is a country in Western Asia, bordered by Turkey to the north, Iran to the east, Kuwait to the southeast, Saudi Arabia to the south, Jordan to the southwest and Syria to the west. The capital, and largest city, is Baghdad.\n\n
+
+Capital:Baghdad \n
+Official language :    Arabic,Kurdish\n
+Area :437,072 km2  \n
+GDP (PPP) :$733.926 billion \n
+Currency : 	Iraqi dinar (IQD)\n
+Calling code :	+964\n
+    </string>
+    <string name="Vietnaminfo">
+     Vietnam is a Southeast Asian country on the South China Sea known for its beaches, rivers, Buddhist pagodas and bustling cities. Hanoi, the capital, pays homage to the nation’s iconic Communist-era leader, Ho Chi Minh, via a huge marble mausoleum. Ho Chi Minh City (formerly Saigon) has French colonial landmarks, plus Vietnamese War history museums and the C? Chi tunnels, used by Viet Cong soldiers.\n\n
+Capital: Hanoi\n
+Official language  :Vietnamese\n
+Area : 331,212 km2 \n
+GDP (PPP) : $770.227 billion \n
+Currency : (VND) \n
+Calling code :	+84\n
+    </string>
+    <string name="Philippinesinfo">
+
+    The Philippines, officially the Republic of the Philippines, is an archipelagic country in Southeast Asia. Situated in the western Pacific Ocean, it consists of about 7,641 islands that are broadly categorized under three main geographical divisions from north to south: Luzon, Visayas and Mindanao\n\n
+Capital: Manila\n
+Official language :    Filipino,English\n
+Area :	300,000 km2  \n
+GDP (PPP) :$1.110 trillion \n
+Currency :Peso \n
+Calling code :	+63\n
+    </string>
+    <string name="Indonesiainfo">
+     Indonesia, officially the Republic of Indonesia, is a country in Southeast Asia, between the Indian and Pacific oceans. It is the world\'s largest island country, with more than seventeen thousand islands, and at 1,904,569 square kilometres, the 14th largest by land area and 7th in the combined sea and land area\n\n
+Capital:Jakarta \n
+Official language  :Indonesian\n
+Area : 1,904,569 km2 \n
+GDP (PPP) :$3.740 trillion \n
+Currency : Indonesian rupiah\n
+Calling code :	+62\n
+    </string>
+    <string name="Maldivesinfo">
+      The Maldives  officially the Republic of Maldives, is a small island nation in South Asia, located in the Arabian Sea of the Indian Ocean. It lies southwest of Sri Lanka and India, about 1,000 kilometres (620 mi) from the Asian continent. The chain of 26 atolls stretches from Ihavandhippolhu Atoll in the north to Addu Atoll in the south. Comprising a territory spanning roughly 298 square kilometres (115 sq mi), the Maldives is one of the world\'s most geographically dispersed sovereign states as well as the smallest Asian country by land area and population, with around 515,696 inhabitants. Malé is the capital and the most populated city, traditionally called the "King\'s Island" for its central location\n\n
+Capital: Malé\n
+Official language and national language :Dhivehi\n
+Area :• 298 km2  \n
+GDP (PPP) : $8.608 billion\n
+Currency :Maldivian rufiyaa  \n
+Calling code :	+960\n
+
+    </string>
+    <string name="Bhutaninfo">
+      Bhutan, a Buddhist kingdom on the Himalayas’ eastern edge, is known for its monasteries, fortresses (or dzongs) and dramatic landscapes that range from subtropical plains to steep mountains and valleys. In the High Himalayas, peaks such as 7,326m Jomolhari are popular trekking destinations. Paro Taktsang monastery (also known as Tiger’s Nest) clings to cliffs above the forested Paro Valley\n\n
+Capital: Thimphu\n
+Official language  :Dzongkha\n
+Area : 	38,394 km2 \n
+GDP (PPP) : $7.701 billion\n
+Currency :Ngultrum (BTN) \n
+Calling code :	+975\n
+    </string>
+    <string name="Kuwaitinfo">
+     Kuwait, officially the State of Kuwait, is a country in Western Asia. Situated in the northern edge of Eastern Arabia at the tip of the Persian Gulf, it shares borders with Iraq and Saudi Arabia. As of 2016, Kuwait has a population of 4.5 million people: 1.3 million are Kuwaitis and 3.2 million are expatriates.\n\n
+Capital:Kuwait City\n
+Official language :Arabic\n
+Area : 17,818 km2 \n
+GDP (PPP) :$303 billion\n
+Currency : Kuwaiti dinar\n
+Calling code :+965\n
+    </string>
+    <string name="Omaninfo">
+       Oman  officially the Sultanate of Oman , is an Arab country on the southeastern coast of the Arabian Peninsula in Western Asia. Its official religion is Islam. Holding a strategically important position at the mouth of the Persian Gulf, the country shares land borders with the United Arab Emirates to the northwest, Saudi Arabia to the west, and Yemen to the southwest, and shares marine borders with Iran and Pakistan. The coast is formed by the Arabian Sea on the southeast and the Gulf of Oman on the northeast. The Madha and Musandam exclaves are surrounded by the UAE on their land borders, with the Strait of Hormuz (which it shares with Iran) and Gulf of Oman forming Musandam\'s coastal boundaries. \n\n
+Capital: Muscat\n
+Official language :Arabic\n
+Area :	309,500 km2  \n
+GDP (PPP) :$203.959 billion \n
+Currency :Rial (OMR) \n
+Calling code :+968\n
+    </string>
+    <string name="Qatarinfo">
+      Qatar is a peninsular Arab country whose terrain comprises arid desert and a long Persian (Arab) Gulf shoreline of beaches and dunes. Also on the coast is the capital, Doha, known for its futuristic skyscrapers and other ultramodern architecture inspired by ancient Islamic design, such as the limestone Museum of Islamic Art. The museum sits on the city’s Corniche waterfront promenade.\n\n
+Capital:Doha \n
+Official language:Arabic\n
+Area :	11,581 km2  \n
+GDP (PPP) :$357.338 billion \n
+Currency : Riyal (QAR)\n
+Calling code :+974\n
+    </string>
+    <string name="SaudiArabiainfo">
+      Saudi Arabia, officially the Kingdom of Saudi Arabia, is a country in Western Asia constituting the bulk of the Arabian Peninsula. With a land area of approximately 2,150,000 km2 (830,000 sq mi), Saudi Arabia is geographically the largest sovereign state in Western Asia, the second-largest in the Arab world (after Algeria), the fifth-largest in Asia, and the 12th-largest in the world. Saudi Arabia is bordered by Jordan and Iraq to the north, Kuwait to the northeast, Qatar, Bahrain, and the United Arab Emirates to the east, Oman to the southeast and Yemen to the south; it is separated from Israel and Egypt by the Gulf of Aqaba. It is the only nation with both a Red Sea coast and a Persian Gulf coast, and most of its terrain consists of arid desert, lowland and mountains. As of October 2018, the Saudi economy was the largest in the Middle East and the 18th largest in the world.[9] Saudi Arabia also has one of the world\'s youngest populations; 50 percent of its 33.4 million people are under 25 years old.\n\n
+Capital:Riyadh \n
+Official language :Arabic\n
+Area : 	2,149,690 km2 \n
+GDP (PPP) :$1.924 trillion \n
+Currency :Saudi riyal (SR \n
+Calling code :+966\n
+    </string>
+    <string name="UAEinfo">
+       The United Arab Emirates, sometimes simply called the Emirates, is a country in Western Asia at the northeast end of the Arabian Peninsula on the Persian Gulf, bordering Oman to the east and Saudi Arabia to the south and west, as well as sharing maritime borders with Qatar to the west and Iran to the north\n\n
+Capital: Abu Dhabi\n
+Official language  :Arabic\n
+Area :83,600 km2  \n
+GDP (PPP) :$732.861 billion \n
+Currency : UAE dirham (AED)\n
+Calling code :	+971\n
+    </string>
+    <string name="Australiinfo">
+      Australia, officially the Commonwealth of Australia is a sovereign country comprising the mainland of the Australian continent, the island of Tasmania, and numerous smaller islands. It is the largest country in Oceania and the world\'s sixth_largest country by total area. The neighbouring countries are Papua New Guinea, Indonesia, and East Timor to the north; the Solomon Islands and Vanuatu to the north-east; and New Zealand to the south-east. The population of 26 million is highly urbanised and heavily concentrated on the eastern seaboard. Australia\'s capital is Canberra, and its largest city is Sydney. The country\'s other major metropolitan areas are Melbourne, Brisbane, Perth, and Adelaide.\n\n
+Capital:Canberra \n
+National language :English\n
+Area :7,692,024 km2  \n
+GDP (PPP) :$1.365 trillion \n
+Currency :Australian dollar \n
+Calling code :+61\n
+    </string>
+    <string name="Chinainfo">
+       China  officially the People\'s Republic of China (PRC), is a country in East Asia and is the world\'s most populous country, with a population of around 1.428 billion in 2017. Covering approximately 9,600,000 square kilometers (3,700,000 sq mi), it is the third-largest or the fourth-largest country by area.Governed by the Communist Party of China, the state exercises jurisdiction over 22 provinces, five autonomous regions, four direct-controlled municipalities (Beijing, Tianjin, Shanghai, and Chongqing), and the special administrative regions of Hong Kong and Macau. \n\n
+Capital: Beijing\n
+Official language  :Standard Chinese\n
+Area : 9,596,961 km2 \n
+GDP (PPP) :$27.309 trillion \n
+Currency : Renminbi (yuan; ¥)\n
+Calling code :	+86\n
+    </string>
+    <string name="Japaninfo">
+      Japan is an island country located in East Asia. It is bordered by the Sea of Japan to the west and the Pacific Ocean to the east, and spans more than 3,000 kilometers along the coast of the continent from the Sea of Okhotsk in the north to the East China Sea and Philippine Sea in the south.\n\n
+Capital: Tokyo\n
+National language :Japanese\n
+Area : 377,975 km2 \n
+GDP (PPP) :$5.747 trillion\n
+Currency :	Japanese yen (¥) \n
+Calling code :	+81\n
+
+    </string>
+    <string name="Koreainfo">
+     Korea is a region in East Asia consisting of the Korean Peninsula, Jeju Island, and several minor islands near the peninsula. Korea has been divided since 1948 between two distinct sovereign states, North Korea and South Korea. Korea is bordered by Russia to the northeast, China to the northwest, and neighbours Japan to the east via the Korea Strait and the Sea of Japan (East Sea). \n\n
+Capital:    Pyongyang (North Korea),Seoul (South Korea) \n
+Official language  :Korean\n
+Area : 219,155 km2 \n
+Currency : Korean Won \n
+Calling code :	+850 (North Korea),+82 (South Korea)\n
+
+    </string>
+    <string name="Austriainfo">
+      Austria, officially the Republic of Austria, is a landlocked East Alpine country in the southern part of Central Europe. It is composed of nine federated states, one of which is Vienna, Austria\'s capital and its largest city.\n\n
+Capital: Vienna\n
+Official language and national language :German\n
+Area : 83,879 km2 \n
+GDP (PPP) :$461.432 billion \n
+Currency : Euro\n
+Calling code :	+43\n
+    </string>
+    <string name="Denmarkinfo">
+       Denmark is a Scandinavian country comprising the Jutland Peninsula and numerous islands. It\'s linked to nearby Sweden via the Öresund bridge. Copenhagen, its capital, is home to royal palaces and colorful Nyhavn harbor, plus the Tivoli amusement park and the iconic “Little Mermaid” statue. Odense is writer Hans Christian Andersen\’s hometown, with a medieval core of cobbled streets and half-timbered houses.\n\n
+Capital: Copenhagen\n
+Official language :Danish\n
+Area :42,933 km2  \n
+GDP (PPP) :$299 billion \n
+Currency : Danish krone\n
+Calling code :     +45 (Denmark)
+    +298    (Faroe Islands)
+    +299    (Greenland) \n
+    </string>
+    <string name="Franceinfo">
+     France, in Western Europe, encompasses medieval cities, alpine villages and Mediterranean beaches. Paris, its capital, is famed for its fashion houses, classical art museums including the Louvre and monuments like the Eiffel Tower. The country is also renowned for its wines and sophisticated cuisine. Lascaux’s ancient cave drawings, Lyon’s Roman theater and the vast Palace of Versailles attest to its rich history.\n\n
+Capital:Paris \n
+Official language and national language : French\n
+Area : 	640,679 km2 \n
+GDP (PPP) : $3.061 trillion \n
+Currency : Euro(EUR)?\n
+Calling code :+33\n
+    </string>
+    <string name="Germanyinfo">
+     Germany is a Western European country with a landscape of forests, rivers, mountain ranges and North Sea beaches. It has over 2 millennia of history. Berlin, its capital, is home to art and nightlife scenes, the Brandenburg Gate and many sites relating to WWII. Munich is known for its Oktoberfest and beer halls, including the 16th-century Hofbräuhaus. Frankfurt, with its skyscrapers, houses the European Central Bank.\n\n
+Capital: Berlin\n
+Official language and national language :German\n
+Area : 357,386 km2 \n
+GDP (PPP) : $4.444 trillion\n
+Currency :Euro \n
+Calling code :	+49\n
+
+    </string>
+    <string name="Greeceinfo">
+      Greece is a country in southeastern Europe with thousands of islands throughout the Aegean and Ionian seas. Influential in ancient times, it\'s often called the cradle of Western civilization. Athens, its capital, retains landmarks including the 5th-century B.C. Acropolis citadel with the Parthenon temple. Greece is also known for its beaches, from the black sands of Santorini to the party resorts of Mykonos.\n\n
+Capital: Athens \n
+Official language and national language :Greek\n
+Area :131,957 km2 \n
+GDP (PPP) :$337.900 billion \n
+Currency : Euro\n
+Calling code : +30\n
+    </string>
+    <string name="Italyinfo">
+       Italy, a European country with a long Mediterranean coastline, has left a powerful mark on Western culture and cuisine. Its capital, Rome, is home to the Vatican as well as landmark art and ancient ruins. Other major cities include Florence, with Renaissance masterpieces such as Michelangelo’s "David" and Brunelleschi\'s Duomo; Venice, the city of canals; and Milan, Italy\’s fashion capital.\n\n
+Capital: Rome\n
+Official language:Italiana\n
+Area : 301,340 km2 \n
+GDP (PPP) :$2.443 trillion \n
+Currency :Euro \n
+Calling code :+39\n
+    </string>
+    <string name="Netherlandsinfo">
+      The Netherlands, a country in northwestern Europe, is known for a flat landscape of canals, tulip fields, windmills and cycling routes. Amsterdam, the capital, is home to the Rijksmuseum, Van Gogh Museum and the house where Jewish diarist Anne Frank hid during WWII. Canalside mansions and a trove of works from artists including Rembrandt and Vermeer remain from the city\'s 17th-century "Golden Age."\n\n
+Capital: Amsterdam\n
+Official language  :Dutch\n
+Area : 41,873 km2 \n
+GDP (PPP) :$1.004 trillion \n
+Currency :  Euro\n
+Calling code :	+31,+599\n
+    </string>
+    <string name="Portugalinfo">
+     Portugal is a southern European country on the Iberian Peninsula, bordering Spain. Its location on the Atlantic Ocean has influenced many aspects of its culture: salt cod and grilled sardines are national dishes, the Algarve\'s beaches are a major destination and much of the nation’s architecture dates to the 1500s–1800s, when Portugal had a powerful maritime empire.\n\n
+Capital:Lisbon \n
+Official language and national language :Portuguese\n
+Area :92,212 km2  \n
+GDP (PPP) :$358.070 billion \n
+Currency :Euro \n
+Calling code :+351\n
+    </string>
+    <string name="Swedeninfo">
+ Sweden is a Scandinavian nation with thousands of coastal islands and inland lakes, along with vast boreal forests and glaciated mountains. Its principal cities, eastern capital Stockholm and southwestern Gothenburg and Malmö, are all coastal. Stockholm is built on 14 islands. It has more than 50 bridges, as well as the medieval old town, Gamla Stan, royal palaces and museums such as open-air Skansen.\n\n
+Capital: \n
+Official language and national language :Stockholm\n
+Area :450,295 km2 \n
+GDP (PPP) :$563.882 billion\n
+Currency :Swedish krona \n
+Calling code :+46\n
+    </string>
+    <string name="Switzerlandinfo">
+      Switzerland is a mountainous Central European country, home to numerous lakes, villages and the high peaks of the Alps. Its cities contain medieval quarters, with landmarks like capital Bern’s Zytglogge clock tower and Lucerne’s wooden chapel bridge. The country is also known for its ski resorts and hiking trails. Banking and finance are key industries, and Swiss watches and chocolate are world renowned.\n\n
+Capital:Bern  \n
+Official language  :German,French,Italian,Romansh\n
+Area :	41,285 km2  \n
+GDP (PPP) : $548 billion\n
+Currency :Swiss franc \n
+Calling code :+41\n
+    </string>
+    <string name="UnitedKingdominfo">
+      The United Kingdom of Great Britain and Northern Ireland, commonly known as the United Kingdom (abbreviated to UK or U.K.) or Britain, is a sovereign country located off the north­western coast of the European mainland. Existing under its current name since 1921, the United Kingdom includes the island of Great Britain, the north­eastern part of the island of Ireland, and many smaller islands. Northern Ireland shares a land border with the Republic of Ireland. Otherwise, the United Kingdom is surrounded by the Atlantic Ocean, with the North Sea to the east, the English Channel to the south and the Celtic Sea to the southwest, giving it the 12th-longest coastline in the world. The Irish Sea separates Great Britain and Ireland. The total area of the United Kingdom is 94,000 square miles (240,000 km2). \n\n
+Capital: London \n
+Official language and national language :English\n
+Area :	242,495 km2 \n
+GDP (PPP) :$3.131 trillion\n
+Currency :Pound sterling\n
+Calling code :+44\n
+    </string>
+    <string name="Brazilinfo">
+        Brazil  officially the Federative Republic of Brazil (Portuguese: República Federativa do Brasil, About this soundlisten (help·info)), is the largest country in both South America and Latin America. At 8.5 million square kilometers (3.2 million square miles) and with over 208 million people, Brazil is the world\'s fifth-largest country by area and the sixth most populous. Its capital is Brasília, and its most populous city is São Paulo. The federation is composed of the union of the 26 states, the Federal District, and the 5,570 municipalities. It is the largest country to have Portuguese as an official language and the only one in the Americas; it is also one of the most multicultural and ethnically diverse nations, due to over a century of mass immigration from around the world.\n\n
+Capital: Brasília \n
+Official language :Portuguese\n
+Area :8,515,767 km2 \n
+GDP (PPP) :$3.596 trillion\n
+Currency :Real (R$) \n
+Calling code :+55\n
+    </string>
+    <string name="Canadainfo">
+     Canada is a country in the northern part of North America. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world\'s second-largest country by total area. Its southern border with the United States, stretching some 8,891 kilometres (5,525 mi), is the world\'s longest bi-national land border. Canada\'s capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. \n\n
+Capital: 	Ottawa \n
+Official language : English,French\n
+Area :9,984,670 km2  \n
+GDP (PPP) :$1.900 trillion\n
+Currency : Canadian dollar ($)\n
+Calling code :	+1\n
+    </string>
+    <string name="Mexicoinfo">
+Mexico, officially the United Mexican States, is a country in the southern portion of North America. It is bordered to the north by the United States; to the south and west by the Pacific Ocean; to the southeast by Guatemala, Belize, and the Caribbean Sea; and to the east by the Gulf of Mexico\n\n
+Capital:Mexico City\n
+National language :Spanish\n
+Area :	1,972,550 km2  \n
+GDP (PPP) :$2.628 trillion\n
+Currency : Peso (MXN)\n
+Calling code :	+52\n
+    </string>
+    <string name="USAinfo">
+  The U.S. is a country of 50 states covering a vast swath of North America, with Alaska in the northwest and Hawaii extending the nation’s presence into the Pacific Ocean. Major Atlantic Coast cities are New York, a global finance and culture center, and capital Washington, DC. Midwestern metropolis Chicago is known for influential architecture and on the west coast, Los Angeles\' Hollywood is famed for filmmaking.\n\n
+Capital: Washington, D.C. \n
+National language :English\n
+Area :	9,833,520 km2 \n
+GDP (PPP) :$21.439 trillion\n
+Currency :United States dollar ($)  \n
+Calling code : +1\n
+    </string>
+    <string name="SouthAfricainfo">
+      South Africa is a country on the southernmost tip of the African continent, marked by several distinct ecosystems. Inland safari destination Kruger National Park is populated by big game. The Western Cape offers beaches, lush winelands around Stellenbosch and Paarl, craggy cliffs at the Cape of Good Hope, forest and lagoons along the Garden Route, and the city of Cape Town, beneath flat-topped Table Mountain.\n\n
+Capital:Pretoria (executive),,Bloemfontein (judicial),Cape Town (legislative)  \n
+Official language : English, Afrikaans,\n
+Area :	1,221,037 km2  \n
+GDP (PPP) :$813.100 billion\n
+Currency : South African rand\n
+Calling code :+27\n
+    </string>
+    <string name="Libyainfo">
+      Libya, officially the State of Libya, is a country in the Maghreb region in North Africa, bordered by the Mediterranean Sea to the north, Egypt to the east, Sudan to the southeast, Chad to the south, Niger to the southwest, Algeria to the west, and Tunisia to the northwest\n\n
+Capital:Tripoli  \n
+Official language :Arabic\n
+Area :	1,759,541 km2  \n
+GDP (PPP) :	$79.595 billion\n
+Currency : Libyan dinar\n
+Calling code :	+218\n
+    </string>
+    <string name="Kenyainfo">
+      Kenya is a country in East Africa with coastline on the Indian Ocean. It encompasses savannah, lakelands, the dramatic Great Rift Valley and mountain highlands. It\'s also home to wildlife like lions, elephants and rhinos. From Nairobi, the capital, safaris visit the Maasai Mara Reserve, known for its annual wildebeest migrations, and Amboseli National Park, offering views of Tanzania\'s 5,895m Mt. Kilimanjaro.\n\n
+Capital: Nairobi\n
+Official language:Swahili, English\n
+Area :	580,367 km2 \n
+GDP (PPP) :$190.182 billion\n
+Currency : Kenyan shilling\n
+Calling code : +254\n
+    </string>
+
+    <string name="Myanmarinfo">
+      Myanmar (formerly Burma) is a Southeast Asian nation of more than 100 ethnic groups, bordering India, Bangladesh, China, Laos and Thailand. Yangon (formerly Rangoon), the country\'s largest city, is home to bustling markets, numerous parks and lakes, and the towering, gilded Shwedagon Pagoda, which contains Buddhist relics and dates to the 6th century.\n\n
+        Capital:Naypyidaw \n
+        Official language:Burmese\n
+        Area : 	676,578 km2 \n
+        GDP (PPP) :$355 billion \n
+        Currency :Kyat \n
+        Calling code :+95\n
+    </string>
+
+    <string name="Brazil">
+         Embassy of Brazil
+         Gulshan Avenue Gulshan 1, Dhaka - 1212,
+        Contact: Phone:(+88 02) 988.7667 /4158/1953
+        Fax: (+88 02) 881.3000
+        Email: brasemb.daca@itamaraty.gov.br
+    </string>
+    <string name="Japan">
+        Embassy of Japan
+      House # 5 and 7, Dutabash Road, Diplomatic Enclave, Baridhara, Dhaka.
+      Telephone : 8810087, Fax : 8826737
+    </string>
+    <string name="Sweden">
+        Embassy of Sweden
+        House #1, Road #52, Gulshan #2, Dhaka.
+        Telephone: 8824761-4, Fax: 8823948
+
+    </string>
+    <string name="Switzerland">
+        Embassy of Switzerland
+      House #31/B, Road #18, Banani, Dhaka.
+      Telephone: 8812874-6, Fax: 8823872
+    </string>
+    <string name="ArabRepublic">
+        Embassy of The Arab Republic of Egypt
+        House NE (N) #9, Road #90, Gulshan Model Town, Dhaka.
+        Telephone: 8822766-7, Fax: 8824883
+    </string>
+    <string name="Germanys">
+        Embassy of the Federal Republic of Germany
+      178, Gulshan Avenue, Gulshan #2, Dhaka.
+      Telephone: 8824735-7, Fax: 8823141
+    </string>
+    <string name="HolySee">
+        Embassy of the Holy See (Vatican)
+      United Nation Road #2, Baridhara Diplomatic Enclave, P.O. Box-6003, Gulshan, Dhaka.
+      Telephone: 8822018, Fax: 8823574
+    </string>
+    <string name="Iran">
+        Embassy of the Islamic Republic of Iran
+     House # 7, Road # 6, Baridhara, Dhaka.
+     Telephone: 8825896, Fax: 8828780
+    </string>
+    <string name="Afghanistan">
+      Embassy of the Islamic State of Afghanistan  House # 10, Road # 9, Baridhara,
+        Dhaka Telephone: 9895994, Fax: 9884767
+
+    </string>
+    <string name="Morocco">
+        Embassy of the Kingdom of Morocco
+     House #44, United Nations Road, Baridhara, Dhaka.
+     Telephone: 8823176, Fax: 8810028
+    </string>
+    <string name="China">
+        Embassy of the Peoples Republic of China
+      Plot #2 and 4, Road #3, Block #1, Baridhara, Dhaka.
+      Telephone: 8824862, Fax: 8823004
+
+    </string>
+    <string name="Frances">
+        Embassy of the Republic of France
+      House #18, Road #108, Gulshan, Dhaka.
+      Telephone: 8813811-4, Fax: 882361
+    </string>
+    <string name="Indonesia">
+
+     Embassy of the Republic of Indonesia
+     Plot #14, Road #53, Gulshan #2, Dhaka.
+      Telephone: 8812260, Fax: 8825391
+    </string>
+    <string name="Iraq">
+        Embassy of the Republic of Iraq
+       House # 8, Road # 59, Gulshan # 2, Dhaka.
+        Telephone: 8823277, Fax: 8823277
+    </string>
+    <string name="Italyes">
+        Embassy of the Republic of Italy
+      House # 2 and 3, Road # 74/79, Gulshan Model Town, Dhaka.
+        Telephone : 8822781-3, Fax : 8822578
+    </string>
+    <string name="Korea">
+        Embassy of the Republic of Korea
+      Address:4, Madani Avenue, Baridhara,
+        Dhaka-1212, Bangladesh , Tel: 8812088-90, Fax: 8823871
+    </string>
+    <string name="Philippines">
+
+      Embassy of the Republic of Philippines
+      House #6, Road #101, Gulshan #2, Dhaka.
+        Telephone: 9881578, Fax: 8823686
+
+    </string>
+    <string name="Turkey">
+        Embassy of the Republic of Turkey
+       House #14, Road #11, Baridhara, Dhaka.
+        Telephone: 8822198, Fax: 8823873
+    </string>
+    <string name="Russia">
+       Embassy of the Russian Federation, Russia
+      House NE (J) #9, Road #79, Gulshan, Dhaka.
+        Telephone: 8828147, Fax: 8823735
+    </string>
+    <string name="Palestine">
+        Embassy of the State of Palestine
+      CES C #4, Road #118, Gulshan Model Town, Dhaka.
+        Telephone: 9893895-6, Fax: 8823517
+    </string>
+    <string name="Qatar">
+        Embassy of the State of Qatar
+      House #23, Road #108, Gulshan, Dhaka.
+        Telephone: 8819930, Fax: 8823950
+
+    </string>
+    <string name="Myanmar">
+        Embassy of the Union of Myanmar
+      No NE (L) #3, Road #84, Gulshan #2, Dhaka.
+        Telephone: 9896373, Fax: 8823740
+
+    </string>
+    <string name="USA">
+
+  Embassy of the United States of America
+       Madani Avenue, Baridhara, Dhaka.
+        Telephone: 8824700-22, Fax: 8823744
+
+    </string>
+    <string name="Libya">
+        Libyan Embassy, Dhaka
+        4 CWN {C}, Gulshan Avenue, Dhaka.
+        Telephone: 9895808-9, Fax: 8823417
+
+    </string>
+
+    <string name="Bhutanese">
+
+     Royal Bhutanese Embassy  House #12, Road #107, Gulshan #2, Dhaka.
+        Telephone: 8826863, Fax: 8823939
+
+    </string>
+    <string name="SaudiArabia">
+      Royal Embassy of Saudi Arabia
+        House #5 (NE) L, Road #83, Gulshan #2, Dhaka.
+        Telephone: 8829124-31, Fax: 8823616
+
+    </string>
+    <string name="Nepal">
+        Embassy of  Nepal
+      United Nations Road #2, Baridhara Diplomatic Enclave, Dhaka.
+        Telephone: 9892490, Fax: 8826401
+
+    </string>
+    <string name="Netherlands">
+
+        Royal Netherlands Embassy
+        House #49, Road #90, Gulshan, Dhaka.
+        Telephone: 8822715-8, Fax: 8823326
+
+    </string>
+    <string name="Norwegian">
+        Royal Norwegian Embassy
+      House #9, Road #111, Gulshan, Dhaka.
+        Telephone: 8823065, Fax: 8823661
+    </string>
+    <string name="Thai">
+        Royal Thai Embassy
+      House NW (I) #04, Road #58/62, Gulshan Model Town, Dhaka.
+        Telephone: 8812795-6, Fax: 8823588
+    </string>
+    <string name="DPRKKorea">
+        Peoples Republic of Korea (DPRK)
+        House #5/A, Road #54, Gulshan #2, Dhaka.
+        Telephone: 8811893-9, Fax: 8810813
+    </string>
+    <string name="Australian">
+     Australian High Commission Chancery: 184, Gulshan Avenue,Gulshan,Dhaka-1212.
+        Telephone: 8813101-5, Fax: 8811125
+    </string>
+    <string name="unitedkindom">
+        British High Commission, United Kingdom
+      United Nations Road, P.O. Box-6079, Baridhara, Dhaka.
+        Telephone: 8822705-9, Fax: 8823437
+    </string>
+    <string name="Canadian">
+      Canadian High Commission  House #16/A, Road #48, Gulshan #2, GPO Box-569, Dhaka.
+        Telephone: 9887091-7, Fax: 8823043
+    </string>
+    <string name="SriLankas">
+        High Commission for the Democratic Socialist Republic of SriLanka
+       House No 4/A,Road No:113,Gulshan-2,Dhaka.,Telephone: 6896353,Fax: 8823971
+    </string>
+    <string name="Pakistans">
+        High Commission for the Islamic Republic of Pakistan
+      House NE {C} #2, Road #71, Gulshan Avenue, Dhaka.
+        Telephone: 8825387-9, Fax: 8823677
+    </string>
+    <string name="brunie">
+
+      High Commission of Brunei  House #26, Road #6, Baridhara, Dhaka.
+        Telephone: 8819552, Fax: 8819551
+
+     </string>
+    <string name="Indias">
+
+      High Commission of India  House #2, Road #142, Gulshan #1, Dhaka.
+        Telephone: 9888189-91, Fax: 8613662
+
+    </string>
+    <string name="Maldives">
+        High Commission of Maldives
+       House No. 4, Road No. 12, Baridhara, Dhaka-1212, Bangladesh.
+        Telephone:+880 2 9882199, Fax: +880 2 9899986, E-mail: admin@maldiveshighcommission.org.bd
+
+    </string>
+    <string name="Malaysian">
+        Malaysian High Commission
+         House # 19, Road # 06,Baridhara Diplomatic Area ,Dhaka-1212, Bangladesh,
+        Phone: 9847759-60,9891651 Fax: 9847761,E-Mail: mwdhaka@kln.gov.my
+
+    </string>
+    <string name="Singapores">
+        Consulate of the Republic of Singapore
+       House #15, Road #68/A, Gulshan #2, Dhaka.
+        Telephone: 9880404, Fax: 9883666
+
+    </string>
+
+    <string name="EuropeanUnion">
+         Delegation of the European Union
+        Plot # 7, Road # 84, Gulshan, Dhaka.
+         Telephone: 8824730-2, Fax: 8813453
+     </string>
+
+
+    <string name="bangladesh">
+        Expatriate welfare building
+        71-72 Old Elephant Road,Dhaka-1000
+        Phone:
+        +88-02-41030444
+        E-mail:
+        secretary@probashi.gov.bd
+        Website:
+        probashi.gov.bd
+    </string>
+    <string name="BhutanThimphu">
+      Embassy of Bangladesh,Thimphu, Bhutan
+      Embassy of Bangladesh,Thimphu, Bhutan
+    Plot No. HIG-3, Upper Chubachu, Thimphu, Bhutan
+    Telephone:+975-2-322-539,+975-2-332-771(PABX)
+    Website:www.bangladeshembassy.bt
+    E-Mail:mission.thimphu@mofa.gov.bd
+    </string>
+    <string name="IndiaAgartala">
+     Bangladesh Assistant High Commission, Agartala.
+      Kunjaban, Near Circuit House, Agartala, Tripura, India- 799006
+      Telephone:+91-0381-232-4807, 222-5260 (PABX)
+      Website: www.bahcagt.org
+      E-Mail:mission.agartala@mofa.gov.bd
+    </string>
+    <string name="IndiaGuwahati">
+      Assistant High Commission of Bangladesh, Guwahati
+    109/D R.G. Baruah Road (Opposite to Assam Minority Development Board)
+    Ganeshguri, Guwahati-781006, Assam, India
+    Telephone:+91-0361-2200-153 (PABX)
+    Website:www.bdahcguwahati.org,
+    E-Mail:guwahati@mofa.gov.bd
+    </string>
+    <string name="IndiaKolkata">
+       Deputy High Commission for the People’s Republic of Bangladesh, Kolkata.
+        9, Bangabandhu Sheikh Mujib Sarani,
+        Kolkata -700017, West Bengal, India.
+        Telephone:+91-33-4012- 7500 (PABX)
+        Website:www.bdhc-kolkata.org
+        E-Mail:mission.kolkata@mofa.gov.bd
+    </string>
+    <string name="IndiaMumbai">
+      Deputy High Commission for the Peoples Republic of Bangladesh, Mumbai, India
+    Jolly Maker Bungalow no.8, Cuffe Parade (Opposite World Trade Centre) Mumbai-400005, India
+    Telephone:+91-22-22180-101 to 03
+    Website:NO
+    E-Mail:mission.mumbai@mofa.gov.bd
+    </string>
+    <string name="IndiaNewDelhi">
+     High Commission for the People’s Republic of Bangladesh, New Delhi, India
+    EP-39, Dr. S. Radhakrishnan Marg, Chanakyapuri,New Delhi-110 021, India
+    Telephone:+91-11-2412-1389-94 (PABX)
+    Website:www.bdhcdelhi.org
+    E-Mail:bdhcdelhi@gmail.com
+    </string>
+    <string name="Maldivess">
+      Embassyof the People’s Republic of Bangladesh, Male, Republic of Maldives.
+    Telephone:+960-3315-541,+960-3320-859
+    Website:www.bdhcmaldives.mv
+    E-Mail:bdootmal@dhivehinet.net.mv
+    </string>
+    <string name="PakistanIslamabad">
+      High Commission for the People’s Republic of Bangladesh, Islamabad, Pakistan
+    House No. 01, Street No. 5, Sector No. F-6/3, Islamabad
+    Telephone:+92-51-227-9267 (PABX)
+    Website:www.bdhcpk.org
+    E-Mail:mission.islamabad@mofa.gov.bd
+
+    </string>
+    <string name="PakistanKarachi">
+      Bangladesh Deputy High Commission, Karachi, Pakistan
+        House # 81/1, Street # 30, Khayaban-E-Seher Phase- VI, Difence Housing Authority, Karachi
+        Telephone:+92-21-3534-0029 to 31
+        Website:www.bddhc-karachi.org
+        E-Mail:bddhckarachi@gmail.com
+    </string>
+    <string name="Brunei">
+     High Commission of the Peoples Republic of Bangladesh, Bandar Seri Begawan.
+    House No. 10, Simpang 83-20, Jalan: Sungai Akar, BC3915,Bandar Seri Begawan,Brunei,Darussalam.
+    Telephone:+673-2342- 420 (PABX)
+    Website:www.hcbangladesh.org.bn
+    E-Mail:mission.bandarseribegawan@mofa.gov.bd
+    </string>
+    <string name="Indonesias">
+       Embassy of the People’s Republic of Bangladesh, Jakarta.
+    JI. KarangAsem Utara, Block C4, Kav.42, No.12,Kuningan , Jakarta Selatan-12950, Indonesia
+    Telephone:+62-21- 5262-173, +62-21-2903-5787 (PABX)
+    Website:www.bdembassyjakarta.org
+    E-Mail:mission.jakarta@mofa.gov.bd
+    </string>
+    <string name="Malaysia">
+      High Commission for the People’s Republic of Bangladesh, Kuala Lumpur.
+    5B and 5C (Lot No.9 and 10), Jalan Sultan Yahya Petra 54100, Kuala Lumpur
+    Telephone:+6-03-26040946,2604 0948-9 (PABX)
+    Website:www.bangladesh-highcomkl.com
+    E-Mail:mission.kualalumpur@mofa.gov.bd
+    </string>
+    <string name="MyanmarSittwe">
+      Consulate of the People’s Republic of Bangladesh, Sittwe, Rakhine State, Myanmar
+    House no # 2,(Ground floor) Myin Pyaing Gwin Road, Asin Myin Lun Chin Housing, San Pya Quarter, Sittwe, Rakhine State, Myanmar
+    Telephone:+95-43-222-41,+95-43-211-26
+    Website:No
+    E-Mail:mission.sittwe@mofa.gov.bd
+
+    </string>
+    <string name="MyanmarYangon">
+      Embassy of the People’s Republic of Bangladesh, Yangon.
+        11/B, Than Lwin Road, Kamayut Township, Yangon, Myanmar.
+        Telephone:+95-1-515-275,+95-1-526-144
+        Website:www.bdembassyyangon.org
+        E-Mail:mission.yangon@mofa.gov.bd
+
+    </string>
+    <string name="Philippine">
+     Embassy of the People’s Republic of Bangladesh, Manila
+    2nd Floor, HERCO Center, 114 Benavidez Street, Legaspi Village, Makati City-1229, Metro Manila, The Philippines.
+    Telephone:+63-02- 8817-5001,+63-02- 8817-5010
+    Website:bangladeshembassymanila.org
+    E-Mail:NO
+
+    </string>
+    <string name="Vietnam">
+      Embassy of the People’s Republic of Bangladesh, Hanoi.
+    Villa # D6B-05, Vuon Dao Compound,
+    Subway # 675, Lac Long Quan, Tay Ho, Hanoi, Socialist Republic of Vietnam
+    Telephone:+84-24-3771-6625,+84-24-3771-7829 (PABX)
+    Website:www.bangladeshembassy.vn
+    E-Mail:NO
+    </string>
+    <string name="BahrainManama">
+       Embassy of the Peoples Republic of Bangladesh.
+    Villa 71, Qufool Avenue, Salihiya-356
+    Telephone:+973-1723-3925 (PABX
+    Website:http://www.bdembassy.org.bh
+    E-Mail:mission.manama@mofa.gov.bd
+    </string>
+    <string name="IranTehran">
+      Embassy of the People’s Republic of Bangladesh, Tehran.
+    North of Yousef Abad, 64th Street, 1stAlley (12 Metri  Ehdasi), House No- 7, Tehran. Post Code-1436812345
+    Telephone:+98-21-8860-1781 to 83,8860-1416 to 17(PABX)
+    Website:http://bdembtehran.org
+    E-Mail:info@bangladoot.ir
+    </string>
+    <string name="IraqBaghdad">
+      Embassy of the People’s Republic of Bangladesh, Baghdad, Iraq.
+    House No. 24, Road No. 18, Sector No.-601,Al-Mansour, Baghdad, Iraq.
+    Telephone:NO
+    Website:NO
+    E-Mail:bangladoot.baghdad.dip@gmail.com
+    </string>
+    <string name="JordanAmman">
+      Embassy of the People’s Republic of Bangladesh, Amman, Jordan.
+        Um Uthaina, Ibrahim Al-Ghozlani Street, Villa no. 07, Amman.
+        Telephone:+962-6-552-9192,+962-6-552-9193
+        Website:www.bdembassyjordan.com
+        E-Mail:mission.amman@mofa.gov.bd
+    </string>
+    <string name="KuwaitKuwaitCity">
+      Embassy of the Peoples Republic of Bangladesh, Kuwait.
+        Khaldiya, Block-2, Street-29, House-11 State of  Kuwait
+        Telephone:+ 965-2491-3219 and +965-2491-3220 (PABX)
+        Website:No
+        E-Mail:mission.kuwait.@mofa.gov.bd
+    </string>
+    <string name="LebanonBeirut">
+      Embassy of the People’s Republic of Bangladesh, Beirut, Lebanon.
+        Al Riyadh Building 3 (4th Floor), Safara al
+        Kuwaiti Street, Bir Hassan, Beirut, Lebanon
+        Telephone:+961-1842-586,+961-1842-587(PABX)
+        Website:http://bangladeshembassybeirut.org
+        E-Mail:No
+    </string>
+    <string name="OmanMuscat">
+      Embassy of the People’s Republic of Bangladesh, Muscat.
+    Building No. 4207, Way No. 3052, Shatti Al Qurum,
+    P.O Box – 3959,Postal Code: 112, Muscat, Sultanate of Oman
+    Telephone:+968-2469-8660,+968-2469-8217
+    Website: www.bdembassyoman.org
+    E-Mail: mission.muscat@mofa.gov.bd
+    </string>
+    <string name="QatarDoha">
+      Embassy of the People’s Republic of Bangladesh, Doha, Qatar.
+    Bldg No. 153, Street No 820, Zone 43, P.O. Box: 2080, Mussab bin Omair, Al Hilal, Doha, Qatar.
+    Telephone:+974 -4467-1927,+974 -4467-3471
+    Website:www.bdembassydoha.org
+    E-Mail:mission.doha@mofa.gov.bd
+    </string>
+    <string name="SaudiArabiaJeddah">
+      Consulate General of the People’s Republic of Bangladesh, Jeddah.
+    Kilo-3,Makkah Road (Behind Mitsubishi Car Office), Nazlah Dist., P.O.Box-31085, Jeddah-21497,Saudi Arabia
+    Telephone:6878465, 689 4712, 681 7140 and 681 7149( PABX))
+    Website:www.bcgjeddah.com
+    E-Mail:cg@bcgjeddah.com
+    </string>
+    <string name="SaudiArabiaRiyadh">
+      Embassy of the People’s Republic of Bangladesh, Riyadh.
+    Embassy of Bangladesh, 88, Dareen Street, Diplomatic Quarters, Circle-1, 3rd Exit Riyadh-11693, Riyadh, KSA, P.O. Box-94395.
+    Telephone:+ 966-11-419-5300,+ 966-11-419-6665
+    Website:www.bangladeshembassy.org.sa
+    E-Mail:mission.riyadh@mofa.gov.bd
+
+    </string>
+    <string name="UAEAbuDhabi">
+      Embassy of the People’s Republic of Bangladesh, Abu Dhabi, UAE.
+    Villa No. 05, Street-11, Zone-02, Al Rowdah Area
+    P.O. Box No. 2504, Abu Dhabi, UAE
+    Telephone:+971-2-446-5100 (PABX)
+    Website:www.bdembassy.ae.org
+    E-Mail:mission.abudhabi@mofa.gov.bd
+
+    </string>
+    <string name="UAEDubaiConsulateGeneral">
+      Consulate General of the Peoples Republic of Bangladesh, Dubai, UAE.
+        Villas #36 and 145, Abdulla Hussain Al Malik Villa, 132/3 Street and Abu Hail Road, Al Wuheida, Deira, Dubai
+        Telephone:+971-4 -265-1116/2388-199 (PABX),
+        Website:www.cgbdubai.org
+        E-Mail:mission.dubai@mofa.gov.bd
+    </string>
+
+
+    <string name="nepal">
+    Basundhara, Chakrapath
+    Kathmandu Municipality Ward No. 3
+    Opposite to NABIL Bank, Dhapashi Branch
+    Kathmandu,Nepal
+    TELEPHONE:
+    (+977)1-439 0130
+    EMAIL :
+    mission.kathmandu@mofa.gov.bd
+    website:
+    bangladoot.org.np
+    </string>
+
+    <string name="SriLanka">
+
+    No. 3, Srinath R.G. Senanayake Mawatha,
+    Colombo-07, SriLanka
+    Telephone:
+    +94-11-2695-744
+    mail:
+    bdhclanka@mofa.gov.bd
+    website:
+    bhccolombo.lk
+
+    </string>
+    <string name="Spain">
+    Calle de Manuel Marañón -13,
+    28043,Madrid,Spain.
+    Telephone:
+    +34914-019-932
+    mail:
+    bdembm01@gmail.com
+    website:
+    bangladeshembassy.es
+    </string>
+
+    <string name="Singapore">
+     Jit Poh Building, Unit: 04-00 and 10-00,
+    19 Keppel Road, Singapore-089058
+    Telephone:
+    +65-6255- 0075
+    mail:
+    mission.singapore@mofa.gov.bd
+    website:
+    bdhc.sg
+
+    </string>
+    <string name="Thailand">
+    House No.47/8,Ekamai Soi 30,
+    Sukhumvit 63,Klongton Nua,
+    Wattana Bangkok-10110,Thailand
+    Telephone:
+    +66-2-390-5107-08
+    mail:
+    mission.bangkok@mofa.gov.bd
+    website:
+    bdembassybangkok.org
+    </string>
+
+    <string name="Italy">
+    via dell Antartide 7,00144,Rome Italy.
+    Telephone:
+    +39-06-8083-595
+    mail:
+    embangrm@mclink.it
+    website:
+    bdembassyrome.it
+
+    </string>
+    <string name="AustraliaCanberra">
+     High Commission for the People\'s Republic of Bangladesh, Canberra.
+        57 Culgoa Circuit, O\'Malley, ACT 2606, Canberra, Australia
+        Telephone:61-2-6290-0511, +61-2-6290-0522
+        Website:http://www.bhcanberra.com
+        E-Mail:consular.canberra@mofa.gov.bd
+
+    </string>
+    <string name="AustraliaSydney">
+      Bangladesh Consulate General, Sydney.
+    Suite 1, Level 1, 189 Kent Street, NSW-2000, Australia
+    Telephone:+61-2-832 69 777
+    Website:http://cgbdsydney.gov.bd
+    E-Mail:mission.sydney@mofa.gov.bd
+
+    </string>
+    <string name="ChinaBeijing">
+     Embassy of the People’s Republic of Bangladesh, Beijing.
+    42 Guang Hua Lu, Chaoyang District, Beijing-100600, People’s Republic of China
+    Telephone:+86-10-6532-2521,+86-10-6532-3706
+    Website:www.bdembassybeijing.com
+    E-Mail:cc-bdembassybeijing@hotmail.com(Commercial Wing)
+    </string>
+    <string name="ChinaHongKong">
+
+      Consulate General of the People\'s Republic of Bangladesh, Hong Kong.
+    13/F, Kyoto Plaza,  491 Lockhart Road, Causeway Bay, Hong Kong
+    Telephone:+852-2827-4278/79, +852-2877-5966
+    Website:www.bangladeshconsulate.hk
+    E-Mail:mission.hongkong@mofa.gov.bd
+
+    </string>
+    <string name="ChinaKunming">
+
+     Consulate General of the People\'s Republic of Bangladesh, Kunming.
+    3rd floor, Main building, 1399 Dianchi Road, Kunming, China
+    Telephone:+86-871-6432-9670/71
+    Website:www.bangladeshconsulate.com.cn
+    E-Mail:cgbdkunming@yahoo.com
+    </string>
+    <string name="Japanis">
+
+     Embassy of the People’s Republic of Bangladesh, Tokyo.
+    3-29, Kioicho, Chiyoda-ku, Tokyo 102-0094, Japan
+    Telephone:+81-3-3234-5801
+    Website:www.bdembjp.mofa.gov.bd
+    E-Mail:bdembassy.tokyo@mofa.gov.bd
+    </string>
+    <string name="Koreais">
+
+      Embassy of the People\’s Republic of Bangladesh, Seoul.
+    17, Jangmun-ro 6-gil, Yongsan-gu Seoul 04393, Republic of Kore
+    Telephone:+ 82-2-796-4056, + 82-2-796-4057
+    Website:www.bdembassykorea.org
+    E-Mail:mission.seoul@mofa.gov.bd; consular.bdembseoul@gmail.com
+    </string>
+    <string name="Austria">
+
+       Embassy and Permanent Mission of the People\'s Republic of Bangladesh to
+        the UN Offices and other International Organizations in Vienna.
+        Hofzeile 4 1190 Vienna, Austria.
+        Telephone:+43-1-3681111
+        Website:www.bangladeshembassy.at
+        E-Mail:mission.vienna@mofa.gov.bd
+    </string>
+    <string name="Belgium">
+
+     Embassy of the People\'s Republic of Bangladeshto Belgium, Luxembourg and Mission to the European Union, Brussels.
+    Telephone:+32-2-640 -55 00
+    Website:www.bangladesh-embassy.be
+    E-Mail:mission.brussels@mofa.gov.bd
+    </string>
+    <string name="Denmark">
+
+      The Embassy of the People\’s Republic of Bangladesh, Copenhagen.
+        Strandvejen336, 2930 Klampenborg, Denmark.
+        Telephone:+45- 3964 -33 03
+        Website:www.bangladeshembassy.dk
+        E-Mail:mission.copenhagen@mofa.gov.bd
+    </string>
+    <string name="France">
+
+       Embassy of the People\'s Republic of Bangladesh, Paris.
+    109 Avenue Henri Martin , 75016 Paris, France
+    Telephone:+33(0)1 46 51- 90 33, +33(0)1 4651-8844
+    Website:http://bangladoot-paris.org
+    E-Mail:helpdesk@bangladoot-paris.org
+    </string>
+    <string name="Germany">
+    Embassy of the People\’s Republic of Bangladesh.
+    Kaiserin-Augusta-Allee 111,10553 Berlin, Germany.
+    Telephone:+49(0)-30-3989-7500
+    Website:www.bangladeshembassy.de
+    E-Mail:info.berlin@mofa.gov.bd
+
+    </string>
+    <string name="Greece">
+
+      Embassy of the People\'s Republic of Bangladesh, Athens, Greece.
+        119, Marathonodromon Str., 15452 PalaioPsychiko, Athens, Greece
+        Telephone:+30-2106720250 (PABX),+30-2106752580
+        Website:www.bdembassy.gr
+        E-Mail:mission.athens@mofa.gov.bd
+    </string>
+    <string name="ItalyMilan">
+
+      Consulate General of the People\’s Republic of Bangladesh, Milan.
+    Via Giambellino-7, 20146, Milan, Italy
+    Telephone:+39-02-8706-8580
+    Website:www.bcgmilan.gov.bd
+    E-Mail:consulategeneralmilan849@gmail.com
+    </string>
+    <string name="ItalyRome">
+
+       Embassy of the People\’s Republic of Bangladesh, Rome.
+    via dell\'Antartide 7, 00144, Rome Italy.
+    Telephone:+39-06-8083-595,+39-06-8078-541
+    Website:www.bdembassyrome.it
+    E-Mail:bdvisarome@gmail.com
+    </string>
+    <string name="Netherland">
+       Embassy of the People\’s Republic of Bangladesh, The Hague.
+    Badhuisweg 77, 2587 CD, The Hague, The Netherlands
+    Telephone:+31-70-328-3722
+    Website:www.bangladeshembassy.nl
+    E-Mail:mission.hague@mofa.gov.bd
+
+    </string>
+    <string name="Portugal">
+
+     Embassy of the People\´s Republic of Bangladesh, Lisbon, Portugal.
+    Rua Antonio de Saldanha, No. 30, 1400 – 021, Lisbon
+    Telephone:+351-21-3010-840
+    Website:No website
+    E-Mail:mission.lisbon@mofa.gov.bd
+    </string>
+    <string name="Swedens">
+
+       Embassy of the People\’s Republic of Bangladesh, Stockholm.
+        Anderstorpsvägen 12, 1st Floor, 171 54 Solna
+        Telephone:+46-8-730- 5850
+        Website:www.bangladoot.se
+        E-Mail:doot@bangladeshembassy.se
+    </string>
+    <string name="Switzerlands">
+
+     Permanent Mission of Bangladesh to the UN Office and Other International Organizations in Geneva.
+    65, Rue de Lausanne, 1202 Geneva
+    Telephone:+41-22 906 80 20
+    Website:www.genevamission.mofa.gov.bd
+    E-Mail:permanentmission.geneva@mofa.gov.bd
+    </string>
+    <string name="UnitedKingdomBirmingham">
+
+      Assistant High Commission for the People\’s Republic of Bangladesh, Birmingham, United Kingdom.
+    Albany House (4th Floor), 31 Hurst Street, Birmingham B5 4BD,U.K..
+    Telephone:+44 -121 -622-3650
+    Website:www.bdhcbirmingham.org
+    E-Mail:mission.birmingham@mofa.gov.bd
+    </string>
+    <string name="UnitedKingdomLondon">
+
+      High Commission for the People\'s Republic of Bangladesh, London.
+    28 Queen\’s Gate, London SW7 5JA, United Kingdom
+    Telephone:+44-20-7584 0081-4
+    Website:www.bhclondon.org.uk
+    E-Mail:info@ bhclondon.org.uk
+
+    </string>
+    <string name="UnitedKingdomManchester">
+
+    Assistant High Commission for the People\’s Republic of Bangladesh, Manchester, UK.
+    Seamark House, Edge lane, Droylsden, Manchester, M43 6BB, UK
+    Telephone:(0) 161-3710577
+    Website:www.bahcmanchester.org.uk
+    E-Mail:mission.manchester@mofa.gov.bd
+    </string>
+    <string name="BrazilBrasilia">
+
+     Embassy of the People\’s Republic of Bangladesh, Brasilia DF, Brazil.
+    QI 22, Conjunto (Road) -1, Casa (House) – 03, Lago Sul (South Lake), Brasilia-DF, Brazil.
+    CEP (Postal Code): 7165-0215
+    Telephone:+55-61-3367-3699, +55-61-3367-3988
+    Website:NO Website
+    E-Mail:bdoot.brasilia@mofa.gov.bd
+
+    </string>
+    <string name="CanadaOttawa">
+
+     High Commission for the People\’s Republic of Bangladesh, Ottawa.
+    350 Sparks Street,Suite-1100 Ottawa, ON, K1R 7S8, Canada
+    Telephone:+1-613-236-0138 and 39
+    Website:www.bdhcottawa.ca
+    E-Mail:mission.ottawa@mofa.gov.bd
+    </string>
+    <string name="CanadaToronto">
+
+       Consulate General of the People\'s Republic of Bangladesh, Toronto.
+    2235 Sheppard Avenue East, Atria II, Suite # 1505, Toronto, ON M2J 5B5, Canada
+    Telephone:647-812-2791-2
+    Website:www.bdcgtoronto.ca
+    E-Mail:mission.toronto@mofa.gov.bd
+    </string>
+    <string name="Mexico">
+
+      Embassy of the People\’s Republic of Bangladesh, Mexico City, Mexico.
+    Street: Calle Sierra Nevada 601,
+    Col. Lomas de Chapultepec,
+    Del. Miguel de Hidalgo
+    C. P. 11000, Ciudad de México, México
+    Telephone:+52 -55-5540-4740, 55-5540-4741
+    Website:NO Website
+    E-Mail:mexicocity.mission@mofa.gov.bd
+    </string>
+    <string name="USALosAngeles">
+
+     onsulate General of the People\’s Republic of Bangladesh, Los Angeles.
+    501 S Fairfax Ave Los Angeles, CA 90036, USA.
+    Telephone:1-323-932-0100,+1-323-932-0013
+    Website:www.bangladeshconsulatela.com
+    E-Mail:bcgla09@gmail.com;mission.losangeles@mofa.gov
+    </string>
+    <string name="USANewYork">
+
+     Consulate General of the People\’s Republic of Bangladesh, New York.
+    34-18 Northern Boulevard, Ground Floor,
+    Long Island City, Queens,
+    New York, NY 11101, USA
+    Telephone:+1-212 -599-6767,599-6850,646-645-7242
+    Website:www.bdcgny.org
+    E-Mail:contact@bdcgny.org
+    </string>
+    <string name="USAUnitedNations">
+
+     Permanent Mission of Bangladesh to the United Nations, New York.
+    820 Diplomat Center, 2nd Avenue, 4th Floor, New York, NY 10017,
+    Telephone:+1 212-867-3434 to 3437
+    Website:www:bdun.org
+    E-Mail:bdpmny@gmail.com,bangladesh@un.int
+
+    </string>
+    <string name="USAWashington">
+    Embassy of the People\’s Republic of Bangladesh, Washington DC.
+    3510 International Drive, NW, Washington DC 20008, USA
+    Telephone:+1-202-244-0183
+    Website:www.bdembassyusa.org
+    E-Mail:mission.washington@mofa.gov.bd
+    </string>
+
+    <string name="SouthAfrica">
+      High Commission for the People\’s Republic of Bangladesh, Pretoria.
+    410 Farenden Street, Sunnyside Pretoria 0002 Republic of South Africa
+    Telephone:+27-12- 343 2105-6
+    Website:www:bhcpretoria.org
+    E-Mail:mission.pretoria@mofa.gov.bd
+    </string>
+    <string name="Libyas">
+        Embassy of the People\’s Republic of Bangladesh, Tripoli, Libya.
+    Hadba El Khadra, Al Haddad Street, Tripoli, Libya
+    Telephone:+218-21-4911-199
+    Website:www.bangladeshembassylibya.com
+    E-Mail:mission.tripoli@mofa.gov.bd,libyalw@yahoo.com
+
+    </string>
+    <string name="Kenya">
+      High Commission for the People\’s Republic of Bangladesh, Nairobi, Kenya.
+        149, Amani Valley, RundaMumwe, Runda.
+        Telephone:+254-20-387-0467, +254-758-705-137
+        Website:www.bdootnairobi.com
+        E-Mail:nairobi.mission@mofa.gov.bd
+    </string>
+    <string name="Indonesiai">
+      Embassy of the People’s Republic of Bangladesh, Jakarta.
+JI. KarangAsem Utara, Block C4, Kav.42, No.12,Kuningan , Jakarta Selatan-12950, Indonesia.
+Telephone:+62-21- 5262-173, +62-21-2903-5787 (PABX).
+WebSite:http://www.bdembassyjakarta.org
+E-Mail:mission.jakarta@mofa.gov.bd
+    </string>
+
+    <string name="workitali">
+
+Non-EU/ EEA nationals wishing to work in Italy, either temporarily or permanently must obtain a work permit from their prospective employers as well as a work visa from the Italian Consular authorities before coming to Italy. Work visas are usually granted based on a particular work capacity, for example knowledge of the local language of the investor and specific market or technical knowledge.\n\n
+
+The admission of non-EU foreign workers is based on a quota system for new entries on a yearly basis. The quota system is intended to regulate the admission of third country nationals and their access to the Italian labor market. The determination of annual quotas is established by the government, which sets the quota through a Prime Minister Decree (known as “Decreto Flussi”).\n\n
+
+The admission of some categories of workers is explicitly exempt from the limits set by the quota system. In particular, specific professional profiles can be admitted without any quantitative cap to regulate their inflow. Workers exempt from this system are primary the following:-\n\n
+
+\t1. Executives or managerial employees assigned to the Italian branch of a foreign legal entity\n
+\t2. Highly skilled workers assigned to the Italian branch of a foreign legal entity for carrying out a specific project\n
+\t3. Others include university lecturers and professors, translators and interpreters, professional nurses, etc.\n
+
+Italy is one of the countries that has implemented the Blue Card EU directive, which enables companies to locally hire executives and high-skilled workers, avoiding the quota system.\n\n
+
+Despite the lack of explicit quantitative limitations, the admission of workers in these categories is still subject to the authorization (“nulla osta”) granted by the territorial ISD, even if admission procedure have been further simplified for specific categories. \n\n
+    </string>
+
+    <string name="worksingrapure">
+         Get a written consent from the foreign worker to apply for Work Permit.
+    Log in to WP Online to fill out the application.
+    Pay $35 for each application. You can pay by GIRO , VISA, MasterCard or eNets debit.
+    Check the status of your application after 1 week.\n\n
+
+    A non-Malaysian worker must not be in Singapore at the time of work permit application.
+    If this is the first time you are applying for a Work Permit, you need to declare your business activity. You should also refer to the requirements for Work Permit.
+    The duration of the Work Permit is usually 2 years, but it may be shorter depending on:\n\n
+
+
+     \t 1. Validity of the worker’s passport: validity will be 1 month before the passport expires.\n
+     \t 2. Duration of the security bond: validity will be 2 months before the security bond expires.\n\n
+
+    </string>
+
+    <string name="workgermany">
+
+        Get a job offer in Germany.\n\n
+    Check if you need a visa to Germany for long-stays.\n
+    Find out where you need to submit your visa application.\n
+    Collect all of the required documents according to the instructions.\n
+    Make an appointment for a visa interview.\n
+    Pay the German Employment Work visa fee.\n
+    Attend the interview.\n
+    Wait for a response on your visa application.\n\n
+    Apply for a Germany Work Visa? \n\n
+
+   \t 1. The German embassy\n
+    \t2. A German consulate\n
+    \t A Visa Application Center\n\n
+
+     The German embassy/consulate located in a neighboring country, in absence of German representative bodies in your country of residence
+     The embassy/consulate of another country, located in your country of residence, to which Germany has outsourced visa admission\n\n
+
+    </string>
+    <string name="workuk">
+
+    Have received a confirmed offer of employment from a licensed UK employer who will act as your sponsor; and
+    Be in possession of a Certificate of Sponsorship issued by your sponsoring employer; and
+    Pass the points-based assessment, details of which can be found on the category specific work permit pages listed below.\n\n
+
+ There are three main categories of UK work permit we advise on. These are:\n\n
+
+   \t 1. Tier 2 General - Skilled Worker\n
+   \t 2.Tier 2 Intra-Company Transfer\n
+   \t 3. Tier 2 Sportsperson Visa\n
+
+
+UK Work Permits (General Category) and Permanent Residency \n\n
+
+As a UK work permit holder you can qualify for permanent residence if you have lived and worked in the UK for
+ a minimum of five years. Once you have satisfied the five year requirement you may qualify for Indefinite Leave
+to remain in the UK, which can be then be followed by British Naturalisation as a UK citizen.\n\n
+
+Intra-Company Transfers and Permanent Residency\n\n
+
+As a UK work permit holder under the ICT category, you can qualify for permanent residence
+ if you have lived and worked in the UK for a minimum of five years and was granted a Tier 2
+intra company transfer visa under the rules in place before 6th April 2010 or had previous leave
+ as a qualifying work permit holder. Once you have satisfied the five year requirement you may
+qualify for Indefinite Leave to remain in the UK (ILR), which can be then be followed by British
+ Naturalisation as a UK citizen.\n\n
+
+    </string>
+    <string name="workspan">
+      European Union nationals do not require work or residence permits
+ to live and work in Spain, although if staying in the country for
+ more than three months they will have to register as residents.\n\n
+
+Non-EU nationals, on the other hand, face a complicated process as
+in most cases it is necessary to have a contract of employment before
+they can apply for a work permit.\n\n
+
+After the work permit is approved by Ministry of Labour, the employer will send the expat a notification of approval, which should have an official stamp.
+
+Next, the applicant needs to collect and submit all the documents required to apply for a work and residence visa at their closest Spanish embassy.
+
+Expats should keep in mind that many of these documents will need to be translated into Spanish and certified.
+
+Furthermore, an applicant only has one month to apply for the visa after their permit has been officially approved. It is, therefore, best to begin gathering the necessary documents well beforehand.\n\n
+
+    </string>
+
+    <string name="workaustralia">
+      In order to live and work in Australia on the temporary or permanent
+basis, you would require applying for an appropriate Work Visa in
+Australia. It can be chiefly divided into two categorie\n\n
+
+Skilled Migration Visa: \n\n
+\t These types of visa have been designed for the foreign skilled workers who
+\t meet the other required criteria and having the skills needed by the Australian labour market.\n\n
+
+Nominated/Sponsored Work Visas:\n\n
+\t These particular categories of visa are for the individuals who are meet the
+\t other required criteria and sponsored or nominated by:\n\n
+
+How to apply for a work visa in Australia?\n\n
+
+Apply for the skilled visa as per below procedure:\n\n
+
+Skilled Visa:\n\n
+        If you are interested in applying for
+Australian skilled migrant visa, you need to submit the online EOI
+(Expression of Interest) on SkillSelect. The SkillSelect is the online
+system to receive and process applications for skilled migration in
+Australia. Your submitted profile in SkillSelect will receive points for
+ the details, such as Age, Skills, Education, Language Proficiency,
+ etc. If your profile gets selected, you may get the nomination from
+Australian State, territory or Employer to apply for the visa in
+Australia.\n\n
+
+Sponsored Visas:\n\n
+        You must be sponsored by a business
+ in Australia, in order to apply for this category of visas. However,
+your employer needs to be an approved sponsor. You can submit an
+application for a sponsored visa .once your employer has lodged an
+application to nominate or sponsor you. You can lodge an application
+online for this visa mentioning your nomination TRN (Transaction
+Reference Number) or Application ID confirmed by your Employer in
+Australia.\n\n
+
+How long does it take to process a work visa for Australia?\n\n
+
+The Processing time for Australian Work visa again depends on the
+type of visa you are applying and on the factors, i.e. time taken for
+verification of your details, any additional requirement/clarification
+sought by the office, certifications, etc. However, it generally takes 6
+months to 12 months to for your work visa to get processed.\n\n
+    </string>
+
+    <string name="workthailand">
+        Our staff will submit the documents for your Thai work permit, during the processing you must not let your visa expire. The Labor Departments system
+links the non-immigrant visa  you listed on your application to the work permit paperwork. A typical time frame for approval of
+the work permit for a company of 2 million baht registered capital is seven (7) business days in Bangkok and up to 2 months in Phuket. BOI approved
+companies can enjoy 3 hour processing times at the One Stop Service Center. The Labor Department will issue a receipt stating your return date for receiving your work permit book.\n\n
+
+Restrictions on Your Thai Work Permit\n\n
+
+When granted with a work permit, the individual must work only with the said company. If in case he is assigned to another location of the same company, he is required to obtain a new work permit covering such new location. The same is required if and when the individual would work with another company. This is due to the fact that the work permit is issued to the employee for the specific company at the specific location \n\n
+
+    </string>
+    <string name="workmalaysia">
+
+How to apply for a work permit in Malaysia ?\n\n
+
+1.Work permits in Malaysia are usually obtained by the employer. If you own a company and want to hire a foreign national, be prepared for a long and exhausting process.\n\n
+Work Visas\n
+
+2.Employees and their families coming to Malaysia, who have not obtained work permits before arrival, are allowed to enter the country on social passes and to obtain the work permit afterwards. As Malaysia imposes stringent laws for illegal workers, it is highly recommended not to start working before the working permit is issued.\n\
+
+3.Dependents of work permit holders have to apply for own working permits if they wish to work in Malaysia.
+Requirements for work permits
+
+4.In order to obtain a work permit, the passport should have a remaining validity of at least 18 months. The foreign national coming to Malaysia to work must be 27 years and above (exception in IT sector, where required minimum age is 23). The work permits are usually issued for periods between 6 months and 5 years.\n
+
+As for employers, any information regarding the visa process, requirements or the necessary forms, can be viewed on the official website of the Malaysian Immigration Department.
+Work passes\n\n
+
+Depending on the type of job and skills, different working passes are issued when obtaining a work permit.\n\n
+
+    Employment Pass: This pass is issued to employees with specific skills, usually for technical or manegerial jobs. The minimum period is usually 2 years.\n
+    Temporary Employment Pass: Issued for employment for less then 2 years or for jobs with a monthly salary less than RM 5000.\n
+    Professional Visit Pass: Issued to foreign nationals who remain employed by the company in the home country but are required by a Malaysian company to provide certain services for a period up to 6 months.\n\n
+
+    </string>
+    <string name="workbangladesh">
+
+      Work permit in Bangladesh\n\n
+
+Work permit is mandatory for every foreign national seeking employment in Bangladesh. Three government authorities issue work permit in Bangladesh.\n\n
+
+        \t 1. For private sector industrial enterprise, branch office and liaison office, outside of Export Processing Zone (EPZ) – Bangladesh Investment Development Authority .\n
+        \t 2. For employment of foreign national in the EPZ – Bangladesh Export Processing Zones Authority .\n
+        \t 3.For employment of foreign national in any NGO – NGO Affairs Bureau.\n\n
+
+  </string>
+
+    <string name="workindia">
+
+Work Permits in India \n\n
+
+Non-nationals planning to work or conduct business in India need to apply for an appropriate visa before entering the country. There are two relevant visas for those planning to work in India, and these function similarly to a work permit:\n\n
+
+    Business Visa allows visits to India of up to six months in order to conduct business for a non-Indian company.\n\n
+    Employment Visa is required for foreigners going to India for the purpose of employment. The maximum length for this visa is five years although it is not always guaranteed that the visa will be issued for the duration of an employment contract. However, it is possible to get this visa extended. This visa offers the possibility to live and work in India on a more permanent basis.\n\n
+
+For thorough information from the Ministry of Home Affairs on both work visas: Click here (PDF)\n\n
+
+Visa applications must be made in the applicant’s country of residence. Many Indian Embassies and High Commissions have now outsourced Indian visa applications to external companies.\n\n
+
+    </string>
+
+    <string name="workpakistan">
+
+A valid passport and visa are required for work in Pakistan.\n\n
+
+Send these documents to Travisa\n
+
+
+Passport Requirements:\n\n
+
+Original, signed passport valid for 6 months beyond stay in Pakistan, with at least one blank passport page available for Pakistani visa and entry stamp(s). Amendment pages in the back of the passport are not suitable for Pakistani visas.\n
+
+
+Pakistan Visa Application Form:\n\n
+
+One Pakistan visa application form. After placing your order, fill out the application form included in your Visa Application Kit.\n
+
+
+Photo Requirements:\n\n
+
+Four identical, recent 2 x 2 passport type photographs in color, front view and with a plain/white background.\n
+
+OR - you can upload a photo when you place your order, instead of providing physical passport photos.\n
+
+
+Official Invitation:\n\n
+
+An official invitation/visa approval notification issued by the Ministry of the Interior, Government of Pakistan and provided by host or sponsor in Pakistan.\n
+
+
+Proof of State Residency:\n\n
+
+A clear copy of applicant driver’s license, utility bill or phone bill. Address on the document must match address on the visa application form.\n
+
+
+Special Instructions:\n\n
+
+Applicants may be asked to appear for an interview, if necessary.\n\n
+    </string>
+
+    <string name="worksrilonka">
+
+Residence visas may be granted to expats who wish to stay longer in SriLanka for work or other purposes. They are only granted once the authorities are satisfied the applicant poses no threat to the best interests of Sri Lanka.
+Employment visas
+Work residency visa\n\n
+
+This visa covers professionals who are employed to work on state-approved projects; expat workers employed by a project under the Board of Investors (BOI) of SriLanka; workers required for private companies and employees of approved NGOs. You can find the application form at the head office of the Department of Immigration and Emigration (DI and E) in Colombo. \n\n
+
+Once completed, the form must be submitted to the DI and E with the required documents, as stated:\n\n
+
+For people working on BOI projects:\n\n
+
+   1. A BOI certificate\n
+   2. Request letter from the employer\n
+   3. BOI agreement\n
+   4.Company registration certificate\n
+   5. Recommendation from the respective ministry\n
+   6. A copy of the information page in your passport\n
+
+For people working on state-approved projects:\n\n
+
+   1. A visa request from the project office\n
+   2. Agreement of the project\n
+   3. A copy of the information page in your passport\n
+   4. Recommendation from either the Line Ministry OR from the Department of External Resources\n
+
+For employees of NGOs and volunteers:\n\n
+
+    1. Request from the organization concerned\n
+    2.Recommendation of the Non-Governmental Organization Secretariat (NGO Secretariat) from the Ministry of Defence or Line Ministry (for volunteers)\n
+   3.Work permit issued by the Ministry of Defence\n
+   4.If applicable, the agreement signed between Sri Lanka and the country concerned\n
+
+For people employed in a private company:\n\n
+
+   1. Form 48\n
+   2. Form 65\n
+   3. Company request\n
+   4. Memorandum and Article of Association\n
+   5. Recommendation of the Line Ministry\n
+
+Validity of work visas\n\n
+
+All work visas are valid for one year, or a time period specified by the company. You can apply to renew each of these visas after a year at the DI and E in Colombo. Company directors are given a two year initial visa.
+Warning!\n
+
+Regardless of your citizenship, you MUST have prior visa approval before you enter SriLanka. This can be obtained from a SriLankan embassy in your home country. Once granted, you can then enter Sri Lanka with an entry visa and apply for your residence visa once inside the country.\n\n
+
+If you enter the country on a temporary visit visa only, you will not be granted a residence visa.\n\n
+
+
+  </string>
+
+    <string name="workfrance">
+
+If you re planning on working in France for more than 90 days/3 months, you must apply for a long-stay work visa in France, which also acts as your
+residence permit. Your employer has to draw up a work contract and send it to the local division of the French Ministry of Labour, the DIRECCTE
+(Direction regionale des enterprises, de la concurrence et de la consummation, du travail et de l emploi). If any family members will be coming
+        with you, then theemployer will need to start the accompanying family member procedure at the same time. If the DIRRECTE approves the contract,
+it is sent to the Office Francais de l’Immigration et de l Integration (OFII).\n\n
+
+Once the OFII has approved the contract, it will be sent directly to the French embassy or consulate in your home country responsible for issuing
+ a French work permit for non-EU citizens. You (and any relatives coming with you) will then be invited to make an appointment to visit the
+embassy/consulate in person to apply for a long-stay visa. You will need to bring along your passport (issued within the last 10 years and with
+three months validity past the end of the visa), a completed application form and plus any other documentation required by the type of work
+(and permit) for which you are applying. On arrival in France, you have to register with the L Office Francais de l Immigration et de I Integration (OFII).\n\n
+
+    </string>
+
+    <string name="workCanada">
+       Eligibility requirements if you apply from inside Canada\n\n
+
+You can only apply for a work permit from inside Canada if:\n\n
+
+    you have a valid study or work permit\n
+    your spouse, common-law partner or parents have a valid study or work permit\n
+    you\’ve graduated from a program at a:\n\n
+       1. Canadian university\n
+       2. community college\n
+       3. CEGEP\n
+       4. publicly funded trade/technical school, or
+        other eligible school\n\n
+    1. you have a temporary resident permit that is valid for six months or more\n
+    2. you\’re waiting on a decision on an application for permanent residence from inside Canada\n
+    3. you made or will make a claim for refugee protection\n
+    4. you\’ve been recognized as a convention refugee or protected person by the Immigration and Refugee Board of Canada\n
+    5.you\’re allowed to work in Canada without a work permit but you need a work permit to work in a different job, or\n
+    6.you\’re a trader, investor, intra-company transferee or professional under NAFTA\n\m
+
+    </string>
+    <string name="workJapan">
+      Foreign workers are required to have the proper visas and work permits in Japan, as established by immigration laws.  Workers entering Japan generally enter through a points based highly skilled visa  or one of the industry specific categories for working visas. These categories include areas such as ‘business manager’ or ‘intra-company transferee\n\n
+The process for obtaining a work visa for Japan is as follows:\n\n
+
+    Most people looking to obtain a work permit will be first required to obtain a Certificate of Eligibility. This document is issued by the Ministry of Justice in Japan and requires a sponsor in Japan (such as employer) to apply for the certificate on the employee\’s behalf to their local immigration office. This certificate is free of charge and can take up to 3 months to be issued. The certificate is then valid for 3 months from the date of issue.\n\n
+
+    Once a Certificate of Eligibility has been issued an application can then be made for a visa. The most common work permits are visas issued on the basis of a particular industry. These categories  have similar application forms but require different documents to be provided with them. If all needed documents are in order visa applications take 5 working days to be processed.\n\n
+    General documents required: Passport, application form, photo (4cm×3cm) taken not more than 3 months prior to the application, the supporting documents required for the specific visa type (see below), certificate of eligibility.\n\n
+    For example, an employee applying for a business manager  working visa would be required to provide documents such as:\n
+        A business plan,\n
+        Copies of the company registration and a statement of profit and loss,\n
+        Material showing the number of the full-time staff\n
+        Copies of resident cards or registration certificate\n
+        Documents regarding wage payments of staff,\n
+        Documents showing the outline of the business office, and\n
+        Material certifying the amount of investment made.\n\n
+    </string>
+    <string name="workChina">
+      China Work Visa Requirements and Documents\n\n
+
+1. Passport\n
+
+- Applicant\'s valid actual passport with at least six months before expiry and at least one blank page left in it.\n
+2. Application Form\n
+
+- One accurately and truthfully completed China Work Visa Application Form.\n
+3. Recent Photo\n
+
+- One recent passport standard photo affixed to the Application Form.\n
+4. Work Permit\n\n
+
+- Applicants need to submit one of the following work permits obtained through their employers in China:\n\n
+a. Foreigners Work Permit - issued by the Ministry of Human Resources and Social Security of the PRC.\n
+b. Registration Certificate of Resident Representative Offices of enterprises of foreign countries (regions) - issued by Chinese authorities of industrial and commercial administration.\n
+c. An approval document for commercial performances - issued by the Chinese government authorities for cultural affairs.\n
+d. Invitation Letter to Foreigners for Offshore Petroleum Operations - issued by National Offshore Oil Corporation.\n
+5. Supporting Documents\n\n
+
+Applicants might be required to submit supporting documents on a case-by-case basis.
+This could include a medical form and criminal history check, which has been notarized
+and authenticated. If you are not required to submit the medical form, you still need
+to take a medical check when applying for the Temporary Residence Permit in China.
+ Download Physical Examination Record for Foreigner to check the tests you need to go through.\n\n
+    </string>
+    <string name="workQatar">
+     The regular process for obtaining your residency and work permit is as follows:\n\n
+ 1. Termporary Permit\n
+
+Your temporary permit is valid for six months and it allows you to be in Qatar to obtain a job. Your employer will set it up so you can start working upon arrival but all the formalities of getting a work residency permit must be completed within three months.\n\n
+
+The residency work permit process generally takes 2-4 weeks and you won’t be able to leave the country during that time.\n\n
+
+ 2. Medical check-up\n\n
+
+A health check is required for anyone applying for a residency work permit. This will include a blood test and a chest x-ray. Your employer\’s Public Relations Officer (PRO) will arrange the appointment for you.\n\n
+
+You should normally have your results within three days. If you are medically unfit, your application will be refused and you\’ll likely be required to leave the country.\n\n
+
+ 3. Fingerprinting\n\n
+
+Another requirement for obtaining a residency work permit is having your fingerprints taken. This will also be arranged by your PRO and it\’ll take place after your medical check.\n\n
+
+ 4. Residence permit and ID card\n\n
+
+Once the previous steps are done, then your PRO will send in the complete applications for your residency work permit and ID card at the same time. Permits are valid for one to three years. Once you have your ID card, you need to carry it with you at all times.\n\n
+
+ You might also be asked for a police clearance certificate. Your residency work permit becomes invalid if you stay out of the country for more than six months at a time.\n\n
+
+Before moving to Qatar, make sure that all your educational certificates are authenticated by the Ministry of Foreign Affairs and then attested by the Qatar embassy. If you\’re unable to do it in your home country, then attestation can be done by the Ministry of Foreign Affairs in Doha, but it can be a lengthy process.\n\n
+
+    </string>
+    <string name="workSaudiArabia">
+      Saudi Arabia work visa\n\n
+A Saudi Working Visa allows you to stay in Saudi Arabia for 3 months, on a single entry visa. You must have a work contract along with other various requirements before you apply.\n\n
+
+Requirements\n\n
+
+    1.Visa Block Number\n
+    2.Passport (with at least 6 months validity and 2 clean pages)\n
+    3. Police Certificate from www.acro.police.uk - Must be legalised by the FCO.\n
+    4.Letter of Introduction from Saudi Employer\n
+    5.2 Passport size photographs\n
+    6.Saudi Visa Application Form + Declaration\n
+    7.Contract from Saudi - dully signed and stamped by the Ministry of foreign Affairs in KSA\n
+    8.Electronic Power of Attorney\n
+    9.Attested Educational Certificates from the Saudi Cultural Bureau\n
+    10.The Attested Ed. Certificate must also be ratified from the Saudi Embassy (processing time 2days)\n
+    11.Medical Report Attested by the FCO\n
+    12.Visa Order Form\n\n
+
+- All applicants who do not have British/EU passports must provide their original residence permit.\n
+
+
+    </string>
+    <string name="workSouthAfrica">
+      Types of South African work visas\n\n
+General work visa\n
+Critical skills work visa \n
+Intra-company transfer visa (ICT)\n
+Corporate visas\n
+Business Visas\n\n
+
+Where to apply for a South African work visa\n\n
+
+Any foreigner who wants to enter South Africa must apply for the appropriate visa at:\n\n
+
+    1.the South African embassy, consulate or diplomatic representative in their country of residence or citizenship;\n
+    2.at a South African diplomatic representative in an adjoining or nearby foreign country if none is available in your country of residence;\n
+   3. at your nearest Visa Facilitation Centre (VFS), if in South Africa.\n
+
+You can collect the necessary forms from the appropriate authority in your country, or access application forms online via the VFS.\n\n
+
+Applications for residence visas are processed and finalised by the foreign offices of the Department of Home Affairs. Arrangements to travel to South Africa must only be made once your temporary residence visa has been issued.\n\n
+
+Among other requirements, depending on the type of visa, you might be asked to provide:\n\n
+
+    1.a passport with at least one month validity after your intended return trip;\n
+    2.proof of your employment situation in South Africa;\n
+    3.vaccination or medical reports;\n
+    4.your qualifications – translated and evaluated by the South African Qualifications Authority (SAQA), if necessary.\n\n
+
+    </string>
+    <string name="workUnitedKingdom">
+     Types of UK work visa\n\n
+Exceptional Talent\n
+General\n
+Intra-company Transfer\n
+Minister of Religion\n
+Sportsperson\n
+Temporary Worker\n
+Youth Mobility Scheme\n
+Domestic Workers in Private Household\n
+Permitted Paid Engagement \n\n
+
+Applying for a UK work visa\n\n
+
+You can make your UK work visa application at the UK visa application centre in your home country. You can find a list of UK visa application centres worldwide here. You can also apply online through the UK Home Office Visas and Immigration Service website.\n\n
+The documents you will need to provide depend on the type of UK work visa you are applying for. If you are applying for a Tier 2 (General) visa, you will need to provide:\n\n
+
+    1.a valid passport or travel ID\n
+    2.evidence that you can support yourself financially for the duration of your stay (e.g. bank statements or sponsor confirmation)\n
+    3.proof of English language ability\n
+    4.proof of payment of the healthcare surcharge\n\n
+
+You will also need to have a tuberculosis test if you are coming to the UK for more than 6 months and are from any of the countries .\n\n
+
+Once you have completed the UK work visa application form, printed it and filled it out, you will need to book an appointment at the UK visa application centre in your home country.\n\n
+
+UK work visa processing times vary according to UK work visa type and where you are applying from. You can check the standard processing time for your .\n\n
+
+The UK Visas and Immigration website has information on managing your UK work visa application, containing information on things such as getting documents back and reporting a change in your circumstances.\n\n
+When you arrive in the UK, you may need to register your UK work visa with the police. You should receive information about whether you need to register in your UK visa sticker or letter from the UK Home Office. \n\n
+
+A link to set up an account for your UK work visa application online can be found here. A link to calculate how much healthcare surcharge you will have to pay can be found here.\n\n
+
+Your UK work visa length will depend on the length of your employment contract and you might be permitted to extend it if you haven’t exceeded the maximum length for your UK work visa type. You will need to apply for an extension either online or at a UK visa premium service centre.\n\n
+
+    </string>
+    <string name="workSwitzerland">
+      Coming to Switzerland to work as an employee\n\n
+
+First you need to find a job; see our guides on how to find a job and apply for a job in Switzerland. Once you have secured employment, your employer will submit an application to the local cantonal employment service, who will review and then refer the application on to the Federal Office for Migration (FOM) for approval. When considering your application, the FOM will take factors such as language skills, age and ability to integrate into account but authorisation will usually only be granted if:\n\n
+
+   1. you are a manager, specialist or an otherwise qualified worker, that is, you hold a university degree, have specific expertise and several years of professional experience;\n\n
+   2. the established quotas allow it;\n
+   3. there is no Swiss or EU/EFTA (European Free Trade Association) person suitable for the position.\n\n
+
+Applying for a Swiss work permit\n\n
+
+Application forms and specific requirements will vary from canton to canton (find the contact details of all the Swiss cantonal authorities to ask more) but in general you will need to submit the following:\n\n
+
+    1.a photocopy of your passport/travel ID data page;\n
+    2.copies of job advertisements (press or online);\n
+    3.evidence of other effort to get work;\n
+    4.your CV;\n
+    5.copies of qualifications, such as certificates or diplomas, which should be in German, French, Italian, or English (translated by an official translator if necessary);\n
+    6.details about the university/place of higher education, such as dates, subjects, and grades.\n\n
+
+Meanwhile, you should apply to the Swiss embassy or consulate in your home country for a visa to enter Switzerland or stay long-term (if you need one) – find out which entry visa you need in our \n
+
+    </string>
+   <string name="workPortugal">
+     Working in Portugal\n\n
+
+Employment in Portugal is subject to a contractual agreement between the employer and the employee. Once the individual finds a suitable job, it is usually the task of the employer to begin the application process for a Portuguese work permit. EU/EEA and Swiss nationals do not need a special work visa/work permit, however, if they intend to work in the country for a long period of time they will need a residence permit.\n\n
+
+You can talk to one of our attorneys in Portugal for in-depth information about all of the aspects of the Employment Law and other relevant legal requirements for foreigners. Our lawyers can help you if you are looking to become an employee in the country or if you wish to start your own business or register a sole trader.\n\n
+
+ Long-term visa in Portugal:\n\n
+
+The following information about the long-term visa for Portugal helps foreigners understand better the conditions imposed:\n\n
+
+
+    1.This kind of visa is issued to foreigners wanting to work more than just 6 months in Portugal.\n
+    2.Being part of the Schengen Area, Portugal allows foreigners to travel within 26 countries with this kind of visa without any restrictions.\n
+    3.The bilateral agreements signed by Portugal with New Zealand, Canada, USA, Japan, Australia, and Israel allow the residents of these countries to apply for a long-term work visa within 90 days from the date of their arrival in the country.\n
+    4.The next thing to consider is to apply for a Portuguese residence permit, in order to legally work and live in Portugal.\n\n
+
+
+The legal requirements for obtaining a short-term or a long-term visa for Portugal can be entirely explained by our team of lawyers in Portugal, so feel free to address your inquiries at any time.\n\n
+
+   </string>
+    <string name="workMaldives">
+     Entry Requirements for Work Visa\n\n
+
+   1.A machine readable (MRZ) Passport Bio-data page copy of the applicant (At least 1 Year validity)\n
+   2 A valid Employment approval not exceeding 90 days from date of arrival\n
+   3.Traveler should provide the same passport mention in the Employment approval\n
+   4.Completed Disembarkation/Embarkation Card approved by Maldives Immigration\n
+   5. Yellow Fever Vaccination Certificate, if applicable\n\n
+
+Applying for Work Visa\n\n
+
+The following documents are required to apply for Work Visa and the employer or a representative of the employer shall submit the application for visa.\n\n
+
+   1.Passport of the employee\n
+   2.Copy of the Employment Approval\n
+   3.Work Visa card fee, MVR50\n
+   4.Passport size photo (Photo shall comply with Maldives Immigration passport photo standard and must be a recent photo)\n
+   5 Medical health screening report of the employee issued from a Hospital/Clinic authorized by the relevant government authority\n
+   6.Work Visa submission receipt (IM29)\n\n
+
+\t Note:\n\n
+
+    Expatriate should be registered under the “Expatriate Medical Insurance” issued from Allied Insurance Company, before applying for visa.\n\n
+    Work Visa fee should be paid for a minimum of 3 months from the date of submission of the application.\n\n
+    The existing Employees while Returning to Maldives after been abroad must make sure their visa is valid or at least the Work permit should remain valid.\n\n
+
+   </string>
+    <string name="workKorea">
+      The documents required to get a work visa for South Korea\n\n
+
+The important documents required\n
+
+    1.A passport that is valid for at least a period of 6 months from the date of submission of the visa application\n
+    2.A duly filled and signed work visa application form and the fees for the application\n
+    3.Passport sized photographs\n
+    4.Original CCVI application\n\n
+
+The South Korean company sponsoring the applicant
+       Copies of:\n\n
+
+    1Certificate of Incorporation\n
+    2.Certificate of registration under Foreign Investment Promotion Act or the report of the company\n
+    3.Previous years certificate of payment of tax\n
+    4.Financial statement for the previous year\n
+    5.Details of foreign employees working in the company currently\n
+    6.The letter of Invitation issued to the candidate\n
+    7.Letter of financial guarantee from the company\n\n
+
+The applicant\n\n
+        1.A detailed resume\n
+    2.Copies of academic qualifications\n
+    3.2 photographs that are passport sized\n
+    4.Copy of the ID page in the passport\n
+    5.Description of the proposed job\n
+    6.The original contract issued by the company\n
+    7.Certificate of health (The candidate needs to be free from contagious diseases)\n\n
+   </string>
+    <string name="visa_country">
+
+        THAILAND\n
+        ABUDHABI\n
+        ABUJA,NIGERIA\n
+        ADDIS ABABA,\tETHIOPIA\n
+        AGARTALA\n
+        AMMAN\n
+        ANKARA\n
+        ATHENS\n
+        AUSTRIA\n
+        Algiers,\tAlgeria\n
+        BAGDAD,IRAQ\n
+        BEIJING\n
+        BEIRUT,LEBANON\n
+        BELGIUM\n
+        BIRMINGHAM\n
+        BRAZIL\n
+        Brunei\n
+        CAIRO\n
+        CANADA\n
+        COPENHAGEN,\tDENMARK\n
+        Canberra\n
+        DOHA\n
+        DUBAI\n
+        GERMANY\n
+        HANOI\n
+        HONG KONG (CONSULATE GENERAL), \tCHINA\n
+        ISLAMABAD\n
+        ISTANBUL\n
+        JAKARTA\n
+        Jeddah\n
+        KARACHI\n
+        KOLKATA\n
+        KOREA\n
+        KUALA LUMPUR\n
+        KUALALUMPUR 2,MALAYSIA\n
+        KUNMING\n
+        Kuwait\n
+        LONDON\n
+        LOS ANGELES,\tUSA\n
+        MADRID\n
+        MALDIVES\n
+        MANAMA\n
+        MANCHESTER\n
+        MANILA THE PHILIPPINES\n
+        MEXICO\n
+        MILAN \tITALY\n
+        MOROCCO\n
+        MOSCOW\n
+        MUMBAI,\tINDIA\n
+        MUSCAT,\t OMAN\n
+        Mauritius\n
+        NAIROBI\n
+        NEPAL\n
+        NEW DELHI\n
+        NEW YORK,\tUSA\n
+        PARIS\n
+        PORTUGAL\n
+        PRETORIA,\tSOUTH AFRICA\n
+        RIYADH\n
+        ROME \tITALY\n
+        SINGAPORE\n
+        STOCKHOLM\n
+        SWITZERLAND\n
+        Srilanka\n
+        TASHKENT\n
+        THE HAGUE NETHERLAND\n
+        TOKYO JAPAN\n
+        TRIPOLI,LIBYA\n
+        Thimphu\n
+        WARSAW,\tPOLAND\n
+        WASHINGTON,\tUSA\n
+        YANGONn\n
+
+    </string>
+
+    <string name="immigrations">
+        1. Passport and Visa:\n\n
+
+Valid passports are required for nationals of all countries to visit Bangladesh. Passports are not required for the holders of identity certificate, Laissez Passer issued by United Nations and its affiliated Bodies, continuous Discharge Certificate/Nullies/Seaman Book (Traveling on duty to join or repatriate from ship) issued by any country recognized by Bangladesh.\n\n
+2. Visas are required for all countries except the nationals of following countries:\n\n
+
+Bhutan, Barbados, Cyprus, Fiji, New Zealand, Western Samoa, Canada, Singapore, Tonga, Leone, Lesotho, Zambia, Tanzania, Malta, Nigeria, Kenya, Somalia, Nauru, Bahamas, Grenada, Papua New Guinea, Seychelles, Trinidad, Tobago, Ghana, Srilanka (Stay not exceeding One Month), Ireland, Tunisia, Vatican, Gabon And Spain.\n\n
+3. Nationals of the following countries do not require any visa if stay does not exceed 3 months:\n\n
+
+Yugoslavia, Japan.\n\n
+4. No entry permit/visa will be required for a period of up to 15 days by the foreign tourists from the following countries arriving in or transiting through Bangladesh provided they hold return or onward air tickets:\n\n
+
+U.S.A., Norway, Sweden, Denmark, Finland, Netherlands, France, Portugal, Spain Italy, Federal Republic Of Germany, Luxembourg, Belgium, Australia, Indonesia, Thailand, Nepal, Austria, Maldives, Philippines, Switzerland, U.K., Greece.\n
+
+Such facilities shall not, however, be extended to those persons who are blacklisted or to whom visas are not issued ordinarily under the rules.\n\n
+5. Any Missionary/Social Worker or person(s) employed in Bangladesh, paid or unpaid, is required to obtain a visa, prior clearance for such category of foreigners are required for visiting Bangladesh.\n\n
+6. Foreigners who are required to obtain visa for visiting Bangladesh but cannot obtain the same due to unavoidable circumstances or inadvertence are generally allowed to enter in the country for 72 hours. in order to prevent hardship. In such cases foreigners will be required to obtain visa from Director, Immigration and Passport of nearest Regional Passport Offices in Bangladesh if duration of stay exceeds 72 hours.\n\n
+7. In all cases, foreigners are required to fill up an embarkation/ disembarkation-cum-health card available at the entry-point with the following additions:\n\n
+
+a.\n
+
+i)For arriving passengers-intended address/addresses.\n\n
+
+ii)For passengers leaving-last address.\n\n
+
+b.\n
+
+Purpose of visit.\n\n
+
+c.\n
+
+Proposed Length of stay in Bangladesh and places visited (with approximate dates)\n\n
+
+d.\n
+
+Passport Number\n\n
+
+e.\n
+
+Place and date of issue of passport\n\n
+
+8. No registration and exit permit is required by a foreigner who visits Bangladesh. Foreigners are required to obtain road permit from the Director General, Immigration and Passports, Dhaka, if they intend to take their exit from the country by road.\n\n
+
+9. Where a flight crew member on a scheduled service retains his license in his possession when disembarking, and remains at the airport where the aircraft has stopped or with the confines of the adjacent city, and departs on the same aircraft or on his next regularly scheduled flight out of Bangladesh, his crew member license or crew certificate is accepted in lieu of passport or visa for temporary admission into Bangladesh, only if the said certificate or license is issued by a country with whom a Bilateral Agreement exits.\n\n
+
+Customs :\n\n
+
+1. Arrival and departure of aircraft all passengers and crew shall present themselves personally with their baggage to Customs and make a declaration of currency on a prescribed from supplied by customs at the declaration counter on arrival. The form must be retained, On departure this form should be re-submitted to Customs showing the balance of foreign and local currency remaining in his possession.\n\n
+2. Restriction on the movement of cash currency in and out of Bangladesh are in force.\n\n
+3. Any unaccompanied baggage following should be notified to the Customs officer on the appropriate form before the passenger departs from the Customs hall.\n\n
+
+Public Health and Plant Quarantine Requirements\n\n
+
+    </string>
+
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_countryabout">Countryabout</string>
+
+    <string name="title_activity_country_info">CountryInfo</string>
+</resources>
